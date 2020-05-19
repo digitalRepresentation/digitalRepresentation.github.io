@@ -19,7 +19,7 @@ baseurl:               'https://digitalrepresentation.github.io/'
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  jp
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Jinyoungの日本IT生活話
@@ -27,9 +27,11 @@ title:                 Jinyoungの日本IT生活話
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
-  Combines the best of static sites and modern web apps.
-  Open `_config.yml` to edit this text.
+  私は東京で働いている韓国人の開発者です。
+  趣味で勉強しながら、困ったことを解決したり、
+  面白い技術を紹介できるブログになるようにします。
+
+  ありがとうございます。
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -51,7 +53,7 @@ author:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2017. All rights reserved.
+copyright:             キム・ジニョン© 2020. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -216,7 +218,7 @@ plugins:
 
 # Used for Twitter cards
 # twitter:
-#   username:            <shortname>
+#   username:            jin03192@naver.com
 
 # Used for Facebook open graph
 # facebook:
