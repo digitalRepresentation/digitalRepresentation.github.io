@@ -27,7 +27,7 @@ title:                 Jinyoungの日本IT生活話
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  abc
+  1234567890
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -38,7 +38,7 @@ tagline:               >
   ありがとうございます。
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [IT, 韓国, 일본취업]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/icon.png
@@ -49,7 +49,7 @@ author:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             キム・ジニョン © 2020. All rights reserved.
@@ -216,11 +216,11 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for Twitter cards
-# twitter:
-#   username:            jin03192@naver.com
+twitter:jin03192@naver.com
+username:digitalrepresentation
 
 # Used for Facebook open graph
-# facebook:
+facebook:upjj7@naver.com
 #   app_id:              <id>
 #   publisher:           <id>
 #   admins:              <id>
