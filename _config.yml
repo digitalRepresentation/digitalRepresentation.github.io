@@ -216,11 +216,11 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for Twitter cards
-twitter:jin03192@naver.com
-username:digitalrepresentation
+twitter: jin03192@naver.com
+username: digitalrepresentation
 
 # Used for Facebook open graph
-facebook:upjj7@naver.com
+facebook: upjj7@naver.com
 #   app_id:              <id>
 #   publisher:           <id>
 #   admins:              <id>
