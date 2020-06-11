@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 日本で働いている韓国人の開発者です。
+title: "日本で働いている韓国人の開発者です。"
 description: >
   会社ではC++、JAVA、VBを使っていますが、
   個人的にはSWIFT、JAVAを勉強して成長していきたいと思います。
