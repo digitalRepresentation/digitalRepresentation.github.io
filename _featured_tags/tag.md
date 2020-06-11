@@ -1,7 +1,7 @@
 ---
 layout: list
 title: その他
-slug: その他
+slug: etc
 menu: true
 order: 2
 description: >
