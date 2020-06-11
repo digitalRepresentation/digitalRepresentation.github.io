@@ -2,16 +2,15 @@
 layout: post
 title: "日本で働いている韓国人の開発者です。"
 description: >
-  会社ではC++、JAVA、VBを使っていますが、
-  個人的にはSWIFT、JAVAを勉強して成長していきたいと思います。
-
-よろしくお願いいたします。
-  
+  123123
 
 tags: [その他]
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+  会社ではC++、JAVA、VBを使っていますが、
+  個人的にはSWIFT、JAVAを勉強して成長していきたいと思います。
+
+よろしくお願いいたします。
 
 [Link to another page](another-page).
 
