@@ -1,9 +1,14 @@
 ---
 layout: post
-title: JAVA
+title: 日本で働いている韓国人の開発者です。
 description: >
-  Spring Java 勉強
-tags: [hydejack]
+  会社ではC++、JAVA、VBを使っていますが、
+  個人的にはSWIFT、JAVAを勉強して成長していきたいと思います。
+
+よろしくお願いいたします。
+  
+
+tags: [その他]
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
