@@ -19,7 +19,7 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  'en-uk'
+lang:                  en-uk
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Jinyoungの日本IT生活話
@@ -105,7 +105,7 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 # ----------------------------------------------------------------------------------------
 # These settings are specific to Hydejack.
 
-hydejack:
+その他:
   # Configure the order of complementary content on blog posts
   post_addons:         [about, newsletter, related]
 
@@ -229,8 +229,8 @@ facebook: upjj7@naver.com
 # social:
 #   name:                <firstname> <lastname>
 #   links:
-     - https://twitter.com/jin03192
-     - https://github.com/digitalRepresentation
+#     - https://twitter.com/jin03192
+#     - https://github.com/digitalRepresentation
 
 
 # Other Plugins

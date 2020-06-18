@@ -1,41 +1,41 @@
 {
-  "lang": "kr",
+  "lang": "en-uk",
   "name": "Jinyoungの日本IT生活話",
   "short_name": "Jinyoungの日本IT生活話",
   "description": "1234567890",
-  "start_url": "/https://digitalrepresentation.github.io/?utm_source=homescreen",
+  "start_url": "/?utm_source=homescreen",
   "theme_color": "#4fb1ba",
   "background_color": "#fff",
   "orientation": "portrait",
   "display": "standalone",
   "icons": [
     {
-      "src": "/https://digitalrepresentation.github.io/assets/icons/icon@0,25x.png",
+      "src": "/assets/icons/icon@0,25x.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "/https://digitalrepresentation.github.io/assets/icons/icon@0,5x.png",
+      "src": "/assets/icons/icon@0,5x.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "/https://digitalrepresentation.github.io/assets/icons/icon@0,75x.png",
+      "src": "/assets/icons/icon@0,75x.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "/https://digitalrepresentation.github.io/assets/icons/icon.png",
+      "src": "/assets/icons/icon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/https://digitalrepresentation.github.io/assets/icons/icon@2x.png",
+      "src": "/assets/icons/icon@2x.png",
       "type": "image/png",
       "sizes": "384x384"
     },
     {
-      "src": "/https://digitalrepresentation.github.io/assets/icons/icon@3x.png",
+      "src": "/assets/icons/icon@3x.png",
       "type": "image/png",
       "sizes": "576x576"
     }

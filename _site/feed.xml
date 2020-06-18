@@ -1,5 +1,209 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="kr"><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/https://digitalrepresentation.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/https://digitalrepresentation.github.io/" rel="alternate" type="text/html" hreflang="kr" /><updated>2020-06-10T22:56:31+09:00</updated><id>http://localhost:4000/https://digitalrepresentation.github.io/</id><title type="html">Jinyoungの日本IT生活話</title><subtitle>1234567890
-</subtitle><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><entry><title type="html">JAVA</title><link href="http://localhost:4000/https://digitalrepresentation.github.io/2017/11/22/example-content/" rel="alternate" type="text/html" title="JAVA" /><published>2017-11-22T00:00:00+09:00</published><updated>2017-11-22T00:00:00+09:00</updated><id>http://localhost:4000/https://digitalrepresentation.github.io/2017/11/22/example-content</id><content type="html" xml:base="http://localhost:4000/https://digitalrepresentation.github.io/2017/11/22/example-content/">&lt;p&gt;Text can be &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, or &lt;del&gt;strikethrough&lt;/del&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-uk"><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-uk" /><updated>2020-06-18T23:57:02+09:00</updated><id>http://localhost:4000/</id><title type="html">Jinyoungの日本IT生活話</title><subtitle>1234567890
+</subtitle><author><name>Jinyoung Kim</name><email>kinemura@naver.com</email></author><entry><title type="html"></title><link href="http://localhost:4000/2020/06/18/2020-06-11-%E3%81%9D%E3%81%AE%E4%BB%96_%E7%B4%B9%E4%BB%8B/" rel="alternate" type="text/html" title="" /><published>2020-06-18T23:57:02+09:00</published><updated>2020-06-18T23:57:02+09:00</updated><id>http://localhost:4000/2020/06/18/2020-06-11-%E3%81%9D%E3%81%AE%E4%BB%96_%E7%B4%B9%E4%BB%8B</id><content type="html" xml:base="http://localhost:4000/2020/06/18/2020-06-11-%E3%81%9D%E3%81%AE%E4%BB%96_%E7%B4%B9%E4%BB%8B/">&lt;p&gt;ㅁㄴㅇㄹㅁㄴㅇ&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hydejack&lt;/strong&gt; is the complete package for professionals on the web.
+It features a blog suitable for both prose and technical documentation,
+a showcase for your projects, and a resume that is well-integrated with the design.&lt;/p&gt;
+
+&lt;blockquote class=&quot;lead&quot;&gt;
+  &lt;p&gt;Your presence on the web — A &lt;a href=&quot;https://qwtel.com/hydejack/blog/&quot;&gt;blog&lt;/a&gt;, a &lt;a href=&quot;https://qwtel.com/hydejack/variations/&quot;&gt;portfolio&lt;/a&gt; and a &lt;a href=&quot;https://qwtel.com/hydejack/resume/&quot;&gt;resume&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;download&quot;&gt;Download&lt;/h2&gt;
+&lt;p&gt;There are two versions of &lt;strong&gt;Hydejack&lt;/strong&gt;: The &lt;em&gt;free version&lt;/em&gt; includes basic blogging functionality,
+as did previous versions of the theme.
+The &lt;em&gt;PRO version&lt;/em&gt; includes additional features for professionals:
+A &lt;a href=&quot;https://qwtel.com/hydejack/variations/&quot;&gt;portfolio&lt;/a&gt;, a &lt;a href=&quot;https://qwtel.com/hydejack/resume/&quot;&gt;resume&lt;/a&gt; layout and a &lt;a href=&quot;https://qwtel.com/hydejack/&quot;&gt;welcome&lt;/a&gt; page to feature your favorite projects and posts.&lt;/p&gt;
+
+&lt;p&gt;This table details what is and isn’t included in each respective version.&lt;/p&gt;
+
+&lt;table class=&quot;stretch-table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Free&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;PRO&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Blog&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✔&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✔&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;#features&quot;&gt;Features&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✔&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✔&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://qwtel.com/hydejack/variations/&quot;&gt;Portfolio&lt;/a&gt; Layout&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✔&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://qwtel.com/hydejack/resume/&quot;&gt;Resume&lt;/a&gt; Layout&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✔&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://qwtel.com/hydejack/&quot;&gt;Welcome&lt;/a&gt; Layout&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✔&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;#newsletter-subscription-box&quot;&gt;Newsletter Box&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✔&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://qwtel.com/hydejack/forms-by-example/&quot;&gt;Custom Forms&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✔&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;No Hydejack Branding&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;✔&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;License&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;LICENSE.md&quot;&gt;GPL-3.0&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;licenses/PRO.md&quot;&gt;PRO&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Source&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack&quot;&gt;GitHub&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Included&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Support&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;No&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;No&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Price&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Free&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;$29&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack-starter-kit/archive/v7.5.0.zip&quot;&gt;&lt;strong&gt;Download&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://app.simplegoods.co/i/AQTTVBOE&quot;&gt;&lt;strong&gt;Buy Now - $29&lt;/strong&gt;&lt;/a&gt; &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;p&gt;Both versions include these features:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Full in-app page loading, powered by &lt;a href=&quot;https://qwtel.com/hy-push-state/&quot; class=&quot;external&quot;&gt;hy-push-state&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A customizable sidebar that turns into a drawer menu on mobile, powered by &lt;a href=&quot;https://qwtel.com/hy-drawer/&quot; class=&quot;external&quot;&gt;hy-drawer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Advanced &lt;abbr title=&quot;First-Last-Invert-Play. A coding technique to achieve performant page transition animations.&quot;&gt;FLIP&lt;/abbr&gt; animations, inspired by Material Design&lt;/li&gt;
+  &lt;li&gt;Good &lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fqwtel.com%2Fhydejack%2F&quot;&gt;Google PageSpeed Score&lt;/a&gt;&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;Higher &lt;em&gt;perceived speed&lt;/em&gt; thanks to content pre-fetching&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#syntax-highlighting&quot;&gt;Syntax highlighting&lt;/a&gt;, powered by &lt;a href=&quot;http://rouge.jneen.net&quot;&gt;Rouge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#latex-math-blocks&quot;&gt;LaTeX math blocks&lt;/a&gt;, powered by &lt;a href=&quot;https://khan.github.io/KaTeX/&quot;&gt;KaTeX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Change the wording of built-in strings and possibly translate in other languages&lt;/li&gt;
+  &lt;li&gt;Support for categories and tags&lt;/li&gt;
+  &lt;li&gt;Built-in icons for many social networks&lt;/li&gt;
+  &lt;li&gt;Simple and semantic HTML — can be viewed even with text-based browsers&lt;/li&gt;
+  &lt;li&gt;Author section below each article and support for multiple authors&lt;/li&gt;
+  &lt;li&gt;Progressive enhancement — sacrifice features, not content&lt;/li&gt;
+  &lt;li&gt;Google Analytics and Google Fonts support&lt;/li&gt;
+  &lt;li&gt;Disqus comments&lt;/li&gt;
+  &lt;li&gt;Print layout — Used to render Hydejack’s &lt;a href=&quot;https://github.com/qwtel/hydejack/releases/download/v7.5.0/Documentation._.Hydejack.pdf&quot;&gt;PDF documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Blog layout via &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll-paginate&lt;/code&gt; (optional)&lt;/li&gt;
+  &lt;li&gt;SEO meta tags via &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll-seo-tag&lt;/code&gt; (optional)&lt;/li&gt;
+  &lt;li&gt;Github avatars via &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll-avatar&lt;/code&gt; (optional)&lt;/li&gt;
+  &lt;li&gt;Gist support via &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll-gist&lt;/code&gt; (optional)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;syntax-highlighting&quot;&gt;Syntax Highlighting&lt;/h3&gt;
+&lt;p&gt;Syntax highlighting powered by &lt;a href=&quot;http://rouge.jneen.net&quot;&gt;Rouge&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Ruby code with syntax highlighting&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;GitHubPages&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Dependencies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;gems&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;each&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;add_dependency&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;= &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;latex-math-blocks&quot;&gt;LaTeX Math Blocks&lt;/h3&gt;
+&lt;p&gt;Write formulas in familiar LaTeX syntax. Powered by &lt;a href=&quot;https://khan.github.io/KaTeX/&quot;&gt;KaTeX&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre class=&quot;MathJax_Preview&quot;&gt;&lt;code&gt;\begin{aligned}
+  \phi(x,y) &amp;amp;= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
+            &amp;amp;= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
+            &amp;amp;= (x_1, \ldots, x_n)
+               \left(\begin{array}{ccc}
+                 \phi(e_1, e_1)  &amp;amp; \cdots &amp;amp; \phi(e_1, e_n) \\
+                 \vdots          &amp;amp; \ddots &amp;amp; \vdots         \\
+                 \phi(e_n, e_1)  &amp;amp; \cdots &amp;amp; \phi(e_n, e_n)
+               \end{array}\right)
+               \left(\begin{array}{c}
+                 y_1    \\
+                 \vdots \\
+                 y_n
+               \end{array}\right)
+\end{aligned}&lt;/code&gt;&lt;/pre&gt;
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;% &lt;![CDATA[
+\begin{aligned}
+  \phi(x,y) &amp;= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
+            &amp;= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
+            &amp;= (x_1, \ldots, x_n)
+               \left(\begin{array}{ccc}
+                 \phi(e_1, e_1)  &amp; \cdots &amp; \phi(e_1, e_n) \\
+                 \vdots          &amp; \ddots &amp; \vdots         \\
+                 \phi(e_n, e_1)  &amp; \cdots &amp; \phi(e_n, e_n)
+               \end{array}\right)
+               \left(\begin{array}{c}
+                 y_1    \\
+                 \vdots \\
+                 y_n
+               \end{array}\right)
+\end{aligned} %]]&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;newsletter-subscription-box&quot;&gt;Newsletter Subscription Box*&lt;/h3&gt;
+&lt;p&gt;The &lt;em&gt;PRO version&lt;/em&gt; has built-in support for &lt;a href=&quot;https://tinyletter.com/&quot;&gt;Tinyletter&lt;/a&gt; subscription boxes.&lt;/p&gt;
+
+&lt;p&gt;If you are using a different newsletter service, like MailChimp,
+you can build a custom newsletter subscription box using &lt;a href=&quot;https://qwtel.com/hydejack/forms-by-example/&quot;&gt;custom forms&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;versions&quot;&gt;Versions&lt;/h2&gt;
+&lt;h3 id=&quot;free-version&quot;&gt;Free Version&lt;/h3&gt;
+&lt;p&gt;The &lt;em&gt;free version&lt;/em&gt; features the design and tech of &lt;strong&gt;Hydejack&lt;/strong&gt;, but only supports basic blogging.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack-starter-kit/archive/v7.5.0.zip&quot;&gt;&lt;strong&gt;Download&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;pro-version&quot;&gt;PRO Version&lt;/h3&gt;
+&lt;p&gt;The &lt;em&gt;PRO version&lt;/em&gt; aims to be the complete package for professionals on the web.
+It includes layouts for your &lt;a href=&quot;https://qwtel.com/hydejack/variations/&quot;&gt;portfolio&lt;/a&gt;,
+your &lt;a href=&quot;https://qwtel.com/hydejack/resume/&quot;&gt;resume&lt;/a&gt; (with support for &lt;a href=&quot;https://jsonresume.org/&quot;&gt;JSON Resume&lt;/a&gt;),
+a &lt;a href=&quot;https://qwtel.com/hydejack/&quot;&gt;welcome&lt;/a&gt; page to introduce yourself to visitors,
+built-in support for &lt;a href=&quot;https://tinyletter.com/&quot;&gt;Tinyletter&lt;/a&gt;, and from element styles so you can build arbitrary contact forms.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://app.simplegoods.co/i/AQTTVBOE&quot;&gt;&lt;strong&gt;Buy Now - $29&lt;/strong&gt;&lt;/a&gt; &lt;sup id=&quot;fnref:2:1&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;You MAY open an issue on GitHub, but no response and/or fix is guaranteed.
+  You understand that using Jekyll requires technical know-how, and is NOT comparable to Wordpress in terms of usability.
+  Please use the free version to confirm that Hydejack works for you.
+  For more, see the &lt;a href=&quot;licenses/PRO.md&quot;&gt;PRO&lt;/a&gt; license. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Transactions secured by &lt;a href=&quot;https://stripe.com&quot;&gt;Stripe&lt;/a&gt;. Downloads handled by &lt;a href=&quot;https://simplegoods.co/&quot;&gt;Simple Goods&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt; &lt;a href=&quot;#fnref:2:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Actual page load speed depends on your hosting provider, resolution of embedded images and usage of 3rd party plugins. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Jinyoung Kim</name><email>kinemura@naver.com</email></author></entry><entry><title type="html">日本で働いている韓国人の開発者です。</title><link href="http://localhost:4000/2020/06/12/example-content/" rel="alternate" type="text/html" title="日本で働いている韓国人の開発者です。" /><published>2020-06-12T00:46:30+09:00</published><updated>2020-06-12T00:46:30+09:00</updated><id>http://localhost:4000/2020/06/12/example-content</id><content type="html" xml:base="http://localhost:4000/2020/06/12/example-content/">&lt;p&gt;会社ではC++、JAVA、VBを使っていますが、
+  個人的にはSWIFT、JAVAを勉強して成長していきたいと思います。&lt;/p&gt;
+
+&lt;p&gt;よろしくお願いいたします。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;another-page&quot;&gt;Link to another page&lt;/a&gt;.&lt;/p&gt;
 
@@ -698,7 +902,7 @@ so that your posts remain compatible with other Jekyll themes.&lt;/p&gt;
                  \vdots \\
                  y_n
                \end{array}\right)
-\end{aligned} %]]&gt;&lt;/script&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="hydejack" /><summary type="html">Text can be bold, italic, or strikethrough.</summary></entry><entry><title type="html">Hydejack’s New Design</title><link href="http://localhost:4000/https://digitalrepresentation.github.io/2017/11/17/hydejacks-new-design/" rel="alternate" type="text/html" title="Hydejack's New Design" /><published>2017-11-17T00:00:00+09:00</published><updated>2017-11-17T00:00:00+09:00</updated><id>http://localhost:4000/https://digitalrepresentation.github.io/2017/11/17/hydejacks-new-design</id><content type="html" xml:base="http://localhost:4000/https://digitalrepresentation.github.io/2017/11/17/hydejacks-new-design/">&lt;p&gt;While v7 brings an &lt;a href=&quot;https://digitalrepresentation.github.io//CHANGELOG/#v700&quot;&gt;insane amount of new stuff&lt;/a&gt;, the most notable change is the new background image.
+\end{aligned} %]]&gt;&lt;/script&gt;</content><author><name>Jinyoung Kim</name><email>kinemura@naver.com</email></author><category term="その他" /><summary type="html">会社ではC++、JAVA、VBを使っていますが、 個人的にはSWIFT、JAVAを勉強して成長していきたいと思います。</summary></entry><entry><title type="html">Hydejack’s New Design</title><link href="http://localhost:4000/2017/11/17/hydejacks-new-design/" rel="alternate" type="text/html" title="Hydejack's New Design" /><published>2017-11-17T00:00:00+09:00</published><updated>2017-11-17T00:00:00+09:00</updated><id>http://localhost:4000/2017/11/17/hydejacks-new-design</id><content type="html" xml:base="http://localhost:4000/2017/11/17/hydejacks-new-design/">&lt;p&gt;While v7 brings an &lt;a href=&quot;/CHANGELOG/#v700&quot;&gt;insane amount of new stuff&lt;/a&gt;, the most notable change is the new background image.
 It is no longer &lt;em&gt;anti-selling&lt;/em&gt; the theme.
 The old image was a blurred version of Napoleon Bonaparte, which was just… weird. I could tell the story of how this came to be,
 but I’d rather show you the new and improved background image.&lt;/p&gt;
@@ -706,7 +910,7 @@ but I’d rather show you the new and improved background image.&lt;/p&gt;
 &lt;h2 id=&quot;new-background-image&quot;&gt;New background image&lt;/h2&gt;
 &lt;p&gt;Yes, it’s an aerial shot of a beach (&lt;a href=&quot;https://duckduckgo.com/?q=ios+11+background&amp;amp;t=ffab&amp;amp;iax=images&amp;amp;ia=images&quot;&gt;so hot right now&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://digitalrepresentation.github.io//assets/img/caleb-george.jpg&quot; alt=&quot;Hydejack's background image&quot; class=&quot;lead&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/caleb-george.jpg&quot; alt=&quot;Hydejack's background image&quot; class=&quot;lead&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Q: What has this picture to do with Hydejack?
 Nothing really, I just like how it looks.
@@ -718,19 +922,19 @@ Specifically, I’ve straightened out the beach and rotated the boat so that it 
 
 &lt;p&gt;For comparison, here is the non-euclidean mess the &lt;a href=&quot;https://unsplash.com/photos/AtvuPUenaeI&quot;&gt;original photo&lt;/a&gt; was. Pretty OCD, I know.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://digitalrepresentation.github.io//assets/img/caleb-george-old.jpg&quot; alt=&quot;Original photo&quot; class=&quot;lead&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/caleb-george-old.jpg&quot; alt=&quot;Original photo&quot; class=&quot;lead&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;new-color-palette&quot;&gt;New color palette&lt;/h2&gt;
 &lt;p&gt;I’ve extracted the major colors from the background image, which now form Hydejack’s color palette:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://digitalrepresentation.github.io//assets/img/COLOURlovers.com-Hydejack.png&quot; alt=&quot;Hydejacks's color palette&quot; style=&quot;border: 1px solid #ddd&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/COLOURlovers.com-Hydejack.png&quot; alt=&quot;Hydejacks's color palette&quot; style=&quot;border: 1px solid #ddd&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;new-logo&quot;&gt;New logo&lt;/h2&gt;
 &lt;p&gt;Hydejack also has a new logo, which is based on the new color palette.
 It also features the best font on Google Fonts, and probably the world: &lt;a href=&quot;https://fonts.google.com/specimen/Roboto+Slab&quot;&gt;Roboto Slab&lt;/a&gt;
 (which is to say, I like it a lot).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://digitalrepresentation.github.io//assets/icons/icon.png&quot; alt=&quot;Hydejack's logo&quot; /&gt;&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="hydejack" /><summary type="html">While v7 brings an insane amount of new stuff, the most notable change is the new background image. It is no longer anti-selling the theme. The old image was a blurred version of Napoleon Bonaparte, which was just… weird. I could tell the story of how this came to be, but I’d rather show you the new and improved background image.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/https://digitalrepresentation.github.io/assets/img/caleb-george.jpg" /></entry><entry><title type="html">Better Gem Support (v6.5)</title><link href="http://localhost:4000/https://digitalrepresentation.github.io/2017/07/27/better-gem-support/" rel="alternate" type="text/html" title="Better Gem Support (v6.5)" /><published>2017-07-27T00:00:00+09:00</published><updated>2017-07-27T00:00:00+09:00</updated><id>http://localhost:4000/https://digitalrepresentation.github.io/2017/07/27/better-gem-support</id><content type="html" xml:base="http://localhost:4000/https://digitalrepresentation.github.io/2017/07/27/better-gem-support/">&lt;p&gt;This maintenance release includes various quality-of-life improvements,
+&lt;p&gt;&lt;img src=&quot;/assets/icons/icon.png&quot; alt=&quot;Hydejack's logo&quot; /&gt;&lt;/p&gt;</content><author><name>Jinyoung Kim</name><email>kinemura@naver.com</email></author><category term="hydejack" /><summary type="html">While v7 brings an insane amount of new stuff, the most notable change is the new background image. It is no longer anti-selling the theme. The old image was a blurred version of Napoleon Bonaparte, which was just… weird. I could tell the story of how this came to be, but I’d rather show you the new and improved background image.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/caleb-george.jpg" /></entry><entry><title type="html">Better Gem Support (v6.5)</title><link href="http://localhost:4000/2017/07/27/better-gem-support/" rel="alternate" type="text/html" title="Better Gem Support (v6.5)" /><published>2017-07-27T00:00:00+09:00</published><updated>2017-07-27T00:00:00+09:00</updated><id>http://localhost:4000/2017/07/27/better-gem-support</id><content type="html" xml:base="http://localhost:4000/2017/07/27/better-gem-support/">&lt;p&gt;This maintenance release includes various quality-of-life improvements,
 especially when using the gem-based version of the theme.
 These changes come in handy when using Hydejack for a quick (project-) page:
 The &lt;code class=&quot;highlighter-rouge&quot;&gt;home&lt;/code&gt; layout, which is used when using &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;,
@@ -838,11 +1042,11 @@ If you have a &lt;code class=&quot;highlighter-rouge&quot;&gt;font&lt;/code&gt; 
 &lt;p&gt;To remove the border radius, open (or create) &lt;code class=&quot;highlighter-rouge&quot;&gt;_sass/my-inline.scss&lt;/code&gt; and add the following:&lt;/p&gt;
 
 &lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nc&quot;&gt;.card&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.pagination-item&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;nl&quot;&gt;border-radius&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;cp&quot;&gt;!important&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="hydejack" /><summary type="html">This maintenance release includes various quality-of-life improvements, especially when using the gem-based version of the theme. These changes come in handy when using Hydejack for a quick (project-) page: The home layout, which is used when using jekyll new, is now a proper layout that displays a few posts/pages below the regular content, and it is again possible to define an author in _config.yml without setting up a _data directory (for more, see blow).</summary></entry><entry><title type="html">Related Projects and Data Tables (v6.4)</title><link href="http://localhost:4000/https://digitalrepresentation.github.io/2017/06/21/related-projects-and-data-tables/" rel="alternate" type="text/html" title="Related Projects and Data Tables (v6.4)" /><published>2017-06-21T00:00:00+09:00</published><updated>2017-06-21T00:00:00+09:00</updated><id>http://localhost:4000/https://digitalrepresentation.github.io/2017/06/21/related-projects-and-data-tables</id><content type="html" xml:base="http://localhost:4000/https://digitalrepresentation.github.io/2017/06/21/related-projects-and-data-tables/">&lt;p&gt;In this release I’ve added a “Other Projects” section to the bottom of each project page,
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Jinyoung Kim</name><email>kinemura@naver.com</email></author><category term="hydejack" /><summary type="html">This maintenance release includes various quality-of-life improvements, especially when using the gem-based version of the theme. These changes come in handy when using Hydejack for a quick (project-) page: The home layout, which is used when using jekyll new, is now a proper layout that displays a few posts/pages below the regular content, and it is again possible to define an author in _config.yml without setting up a _data directory (for more, see blow).</summary></entry><entry><title type="html">Related Projects and Data Tables (v6.4)</title><link href="http://localhost:4000/2017/06/21/related-projects-and-data-tables/" rel="alternate" type="text/html" title="Related Projects and Data Tables (v6.4)" /><published>2017-06-21T00:00:00+09:00</published><updated>2017-06-21T00:00:00+09:00</updated><id>http://localhost:4000/2017/06/21/related-projects-and-data-tables</id><content type="html" xml:base="http://localhost:4000/2017/06/21/related-projects-and-data-tables/">&lt;p&gt;In this release I’ve added a “Other Projects” section to the bottom of each project page,
 making it easier for users to navigate through your collection and discover other projects.
 Also, it’s now possible to display larger (data-) tables that were previously cut off (especially on mobile devices).&lt;/p&gt;
 
-&lt;p&gt;For more on how to add tables, see the new section in &lt;a href=&quot;/https://digitalrepresentation.github.io/docs/7.5.2/writing/&quot;&gt;docs/writing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more on how to add tables, see the new section in &lt;a href=&quot;/docs/7.5.2/writing/&quot;&gt;docs/writing&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Smaller changes include a reduced usage of horizontal lines and a more “semantic” use of &lt;code class=&quot;highlighter-rouge&quot;&gt;hr&lt;/code&gt; elements.
 Specifically, the semantics of the resume layout have been improved.
@@ -901,7 +1105,7 @@ Compression
 &lt;ul&gt;
   &lt;li&gt;Added “Other Projects” section to the bottom of the project layout (similar to “Related Posts”)&lt;/li&gt;
   &lt;li&gt;Added CSS classes that make viewing larger (data-) tables possible&lt;/li&gt;
-  &lt;li&gt;Added section on tables to &lt;a href=&quot;/https://digitalrepresentation.github.io/docs/7.5.2/writing/&quot;&gt;docs/writing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Added section on tables to &lt;a href=&quot;/docs/7.5.2/writing/&quot;&gt;docs/writing&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Reduced use of &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;hr/&amp;gt;&lt;/code&gt; elements, using CSS borders instead.&lt;/li&gt;
   &lt;li&gt;Improved semantic HTML of resume&lt;/li&gt;
   &lt;li&gt;Follow favicon best practices and include example icons&lt;/li&gt;
@@ -923,7 +1127,7 @@ Compression
   &lt;li&gt;Fixed bug that caused layout to break in IE11.&lt;/li&gt;
   &lt;li&gt;Fixed bug that caused the project animation to “jump” when using long project titles.&lt;/li&gt;
   &lt;li&gt;No more empty attributes on &lt;code class=&quot;highlighter-rouge&quot;&gt;img&lt;/code&gt; tags.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="hydejack" /><summary type="html">In this release I’ve added a “Other Projects” section to the bottom of each project page, making it easier for users to navigate through your collection and discover other projects. Also, it’s now possible to display larger (data-) tables that were previously cut off (especially on mobile devices).</summary></entry><entry><title type="html">Third Party Scripts (v6.3)</title><link href="http://localhost:4000/https://digitalrepresentation.github.io/2017/06/06/third-party-scripts/" rel="alternate" type="text/html" title="Third Party Scripts (v6.3)" /><published>2017-06-06T00:00:00+09:00</published><updated>2017-06-06T00:00:00+09:00</updated><id>http://localhost:4000/https://digitalrepresentation.github.io/2017/06/06/third-party-scripts</id><content type="html" xml:base="http://localhost:4000/https://digitalrepresentation.github.io/2017/06/06/third-party-scripts/">&lt;p&gt;This release makes including third party plugins easier.
+&lt;/ul&gt;</content><author><name>Jinyoung Kim</name><email>kinemura@naver.com</email></author><category term="hydejack" /><summary type="html">In this release I’ve added a “Other Projects” section to the bottom of each project page, making it easier for users to navigate through your collection and discover other projects. Also, it’s now possible to display larger (data-) tables that were previously cut off (especially on mobile devices).</summary></entry><entry><title type="html">Third Party Scripts (v6.3)</title><link href="http://localhost:4000/2017/06/06/third-party-scripts/" rel="alternate" type="text/html" title="Third Party Scripts (v6.3)" /><published>2017-06-06T00:00:00+09:00</published><updated>2017-06-06T00:00:00+09:00</updated><id>http://localhost:4000/2017/06/06/third-party-scripts</id><content type="html" xml:base="http://localhost:4000/2017/06/06/third-party-scripts/">&lt;p&gt;This release makes including third party plugins easier.
 Until now, the push state approach to loading new pages has been interfering with embedded &lt;code class=&quot;highlighter-rouge&quot;&gt;script&lt;/code&gt; tags.
 This version changes this by simulating the sequential loading of script tags on a fresh page load.&lt;/p&gt;
 
@@ -979,7 +1183,7 @@ Maybe you won’t even notice the difference.&lt;/p&gt;
   &lt;li&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;disable_push_state&lt;/code&gt; option to &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;Add &lt;code class=&quot;highlighter-rouge&quot;&gt;disable_drawer&lt;/code&gt; option to &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;Rename syntax highlighting file to &lt;code class=&quot;highlighter-rouge&quot;&gt;syntax.scss&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Added &lt;a href=&quot;/https://digitalrepresentation.github.io/docs/7.5.2/scripts/&quot;&gt;chapter on third party scripts&lt;/a&gt; to documentation&lt;/li&gt;
+  &lt;li&gt;Added &lt;a href=&quot;/docs/7.5.2/scripts/&quot;&gt;chapter on third party scripts&lt;/a&gt; to documentation&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;design&quot;&gt;Design&lt;/h3&gt;
@@ -992,7 +1196,7 @@ Maybe you won’t even notice the difference.&lt;/p&gt;
 &lt;h3 id=&quot;fixes&quot;&gt;Fixes&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Fix default color in gem-based theme&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="hydejack" /><summary type="html">This release makes including third party plugins easier. Until now, the push state approach to loading new pages has been interfering with embedded script tags. This version changes this by simulating the sequential loading of script tags on a fresh page load.</summary></entry><entry><title type="html">JavaScripten (v6)</title><link href="http://localhost:4000/https://digitalrepresentation.github.io/2017/05/03/javascripten/" rel="alternate" type="text/html" title="JavaScripten (v6)" /><published>2017-05-03T00:00:00+09:00</published><updated>2017-05-03T00:00:00+09:00</updated><id>http://localhost:4000/https://digitalrepresentation.github.io/2017/05/03/javascripten</id><content type="html" xml:base="http://localhost:4000/https://digitalrepresentation.github.io/2017/05/03/javascripten/">&lt;p&gt;Hydejack has always featured a JavaScript-heavy sidebar, but other than that, JS has been used sparingly.
+&lt;/ul&gt;</content><author><name>Jinyoung Kim</name><email>kinemura@naver.com</email></author><category term="hydejack" /><summary type="html">This release makes including third party plugins easier. Until now, the push state approach to loading new pages has been interfering with embedded script tags. This version changes this by simulating the sequential loading of script tags on a fresh page load.</summary></entry><entry><title type="html">JavaScripten (v6)</title><link href="http://localhost:4000/2017/05/03/javascripten/" rel="alternate" type="text/html" title="JavaScripten (v6)" /><published>2017-05-03T00:00:00+09:00</published><updated>2017-05-03T00:00:00+09:00</updated><id>http://localhost:4000/2017/05/03/javascripten</id><content type="html" xml:base="http://localhost:4000/2017/05/03/javascripten/">&lt;p&gt;Hydejack has always featured a JavaScript-heavy sidebar, but other than that, JS has been used sparingly.
 This changes with this release, which adds a ton of (optional) code that changes the feel of the theme dramatically.&lt;/p&gt;
 
 &lt;h2 id=&quot;major&quot;&gt;Major&lt;/h2&gt;
@@ -1016,14 +1220,14 @@ At the same time, the &lt;abbr title=&quot;Flash of Unstyled Content&quot;&gt;FO
   &lt;li&gt;Added &lt;code class=&quot;highlighter-rouge&quot;&gt;redirect&lt;/code&gt; layout&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;See the &lt;a href=&quot;/https://digitalrepresentation.github.io/docs/7.5.2/upgrade/&quot;&gt;the migration guide&lt;/a&gt; for instructions on how to upgrade.&lt;/p&gt;
+&lt;p&gt;See the &lt;a href=&quot;/docs/7.5.2/upgrade/&quot;&gt;the migration guide&lt;/a&gt; for instructions on how to upgrade.&lt;/p&gt;
 
 &lt;h2 id=&quot;minor&quot;&gt;Minor&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;The “accent” font (heading font) is now used for all headings.
 This gives the theme a “bolder” look and was necessary for the animation: link =&amp;gt; heading.&lt;/li&gt;
   &lt;li&gt;Changed default text font from “PT Serif” to “Noto Serif”.&lt;/li&gt;
-  &lt;li&gt;Added &lt;a href=&quot;/https://digitalrepresentation.github.io/docs/7.5.2/writing/&quot;&gt;CSS classes&lt;/a&gt; for styling markdown content.&lt;/li&gt;
+  &lt;li&gt;Added &lt;a href=&quot;/docs/7.5.2/writing/&quot;&gt;CSS classes&lt;/a&gt; for styling markdown content.&lt;/li&gt;
   &lt;li&gt;Links have a new style.
 They now always display an underline to make the choice of the link color less critical (darker colors were hard to
 distinguish from regular text).&lt;/li&gt;
@@ -1050,12 +1254,12 @@ distinguish from regular text).&lt;/li&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack/releases/tag/v7.5.2&quot;&gt;Get &lt;em&gt;JavaScripten&lt;/em&gt; on GitHub&lt;/a&gt;&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="hydejack" /><summary type="html">Hydejack has always featured a JavaScript-heavy sidebar, but other than that, JS has been used sparingly. This changes with this release, which adds a ton of (optional) code that changes the feel of the theme dramatically.</summary></entry><entry><title type="html">The Fast One (v5)</title><link href="http://localhost:4000/https://digitalrepresentation.github.io/2016/09/17/the-fast-one/" rel="alternate" type="text/html" title="The Fast One (v5)" /><published>2016-09-17T00:00:00+09:00</published><updated>2016-09-17T00:00:00+09:00</updated><id>http://localhost:4000/https://digitalrepresentation.github.io/2016/09/17/the-fast-one</id><content type="html" xml:base="http://localhost:4000/https://digitalrepresentation.github.io/2016/09/17/the-fast-one/">&lt;p&gt;This major release increases page load speed dramatically.
+&lt;p&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack/releases/tag/v7.5.2&quot;&gt;Get &lt;em&gt;JavaScripten&lt;/em&gt; on GitHub&lt;/a&gt;&lt;/p&gt;</content><author><name>Jinyoung Kim</name><email>kinemura@naver.com</email></author><category term="hydejack" /><summary type="html">Hydejack has always featured a JavaScript-heavy sidebar, but other than that, JS has been used sparingly. This changes with this release, which adds a ton of (optional) code that changes the feel of the theme dramatically.</summary></entry><entry><title type="html">The Fast One (v5)</title><link href="http://localhost:4000/2016/09/17/the-fast-one/" rel="alternate" type="text/html" title="The Fast One (v5)" /><published>2016-09-17T00:00:00+09:00</published><updated>2016-09-17T00:00:00+09:00</updated><id>http://localhost:4000/2016/09/17/the-fast-one</id><content type="html" xml:base="http://localhost:4000/2016/09/17/the-fast-one/">&lt;p&gt;This major release increases page load speed dramatically.
 The page now scores roughly 90/100 on &lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fqwtel.com%2Fhydejack%2F&quot;&gt;Google’s PageSpeed Insights&lt;/a&gt; (up from ~50) and
 has a high score on similar tools.&lt;/p&gt;
 
 &lt;p class=&quot;message&quot;&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: This post is outdated and only included for legacy reasons.
-See the &lt;a href=&quot;/https://digitalrepresentation.github.io/docs/7.5.2/&quot; class=&quot;heading flip-title&quot;&gt;Documentation&lt;/a&gt; for up-to-date instructions.&lt;/p&gt;
+See the &lt;a href=&quot;/docs/7.5.2/&quot; class=&quot;heading flip-title&quot;&gt;Documentation&lt;/a&gt; for up-to-date instructions.&lt;/p&gt;
 
 &lt;p&gt;Most importantly, the critical rendering path is no longer blocked by loading styles or scripts,
 meaning the site becomes visible faster.&lt;/p&gt;
@@ -1091,7 +1295,7 @@ help with loading speed as well (burred images get compressed by JPG much better
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack/releases&quot;&gt;Get &lt;em&gt;The Fast One&lt;/em&gt; on GitHub&lt;/a&gt;&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="hydejack" /><summary type="html">This major release increases page load speed dramatically. The page now scores roughly 90/100 on Google’s PageSpeed Insights (up from ~50) and has a high score on similar tools.</summary></entry><entry><title type="html">Social Media Impocalypse (v4)</title><link href="http://localhost:4000/https://digitalrepresentation.github.io/2016/08/30/social-media-impocalypse/" rel="alternate" type="text/html" title="Social Media Impocalypse (v4)" /><published>2016-08-30T00:00:00+09:00</published><updated>2016-08-30T00:00:00+09:00</updated><id>http://localhost:4000/https://digitalrepresentation.github.io/2016/08/30/social-media-impocalypse</id><content type="html" xml:base="http://localhost:4000/https://digitalrepresentation.github.io/2016/08/30/social-media-impocalypse/">&lt;h2 id=&quot;breaking&quot;&gt;Breaking&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack/releases&quot;&gt;Get &lt;em&gt;The Fast One&lt;/em&gt; on GitHub&lt;/a&gt;&lt;/p&gt;</content><author><name>Jinyoung Kim</name><email>kinemura@naver.com</email></author><category term="hydejack" /><summary type="html">This major release increases page load speed dramatically. The page now scores roughly 90/100 on Google’s PageSpeed Insights (up from ~50) and has a high score on similar tools.</summary></entry><entry><title type="html">Social Media Impocalypse (v4)</title><link href="http://localhost:4000/2016/08/30/social-media-impocalypse/" rel="alternate" type="text/html" title="Social Media Impocalypse (v4)" /><published>2016-08-30T00:00:00+09:00</published><updated>2016-08-30T00:00:00+09:00</updated><id>http://localhost:4000/2016/08/30/social-media-impocalypse</id><content type="html" xml:base="http://localhost:4000/2016/08/30/social-media-impocalypse/">&lt;h2 id=&quot;breaking&quot;&gt;Breaking&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Structure of &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; has changed
     &lt;ul&gt;
@@ -1106,7 +1310,7 @@ help with loading speed as well (burred images get compressed by JPG much better
 &lt;!--more--&gt;
 
 &lt;p class=&quot;message&quot;&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: This post is outdated and only included for legacy reasons.
-See the &lt;a href=&quot;/https://digitalrepresentation.github.io/docs/7.5.2/&quot; class=&quot;heading flip-title&quot;&gt;Documentation&lt;/a&gt; for up-to-date instructions.&lt;/p&gt;
+See the &lt;a href=&quot;/docs/7.5.2/&quot; class=&quot;heading flip-title&quot;&gt;Documentation&lt;/a&gt; for up-to-date instructions.&lt;/p&gt;
 
 &lt;h2 id=&quot;new-features&quot;&gt;New features&lt;/h2&gt;
 &lt;ul&gt;
@@ -1134,7 +1338,7 @@ to contain the unmodified markdown).&lt;/li&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack/releases&quot;&gt;Get &lt;em&gt;Social Media Impocalypse&lt;/em&gt; on GitHub&lt;/a&gt;&lt;/p&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="hydejack" /><summary type="html">Breaking Structure of _config.yml has changed Social media usernames are now located under author: social: &amp;lt;platform&amp;gt;: &amp;lt;username&amp;gt;. disqus is now a top-level entry (moved from author). Now has font, font_accent and google_fonts fields that are mandatory. Now defaults to the blog layout, old style is available via blog-by-tag layout, see archive.html.</summary></entry><entry><title type="html">Introducing Hydejack (v3)</title><link href="http://localhost:4000/https://digitalrepresentation.github.io/2016/03/08/introducing-hydejack/" rel="alternate" type="text/html" title="Introducing Hydejack (v3)" /><published>2016-03-08T00:00:00+09:00</published><updated>2016-03-08T00:00:00+09:00</updated><id>http://localhost:4000/https://digitalrepresentation.github.io/2016/03/08/introducing-hydejack</id><content type="html" xml:base="http://localhost:4000/https://digitalrepresentation.github.io/2016/03/08/introducing-hydejack/">&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/qwtel/hydejack/releases&quot;&gt;Get &lt;em&gt;Social Media Impocalypse&lt;/em&gt; on GitHub&lt;/a&gt;&lt;/p&gt;</content><author><name>Jinyoung Kim</name><email>kinemura@naver.com</email></author><category term="hydejack" /><summary type="html">Breaking Structure of _config.yml has changed Social media usernames are now located under author: social: &amp;lt;platform&amp;gt;: &amp;lt;username&amp;gt;. disqus is now a top-level entry (moved from author). Now has font, font_accent and google_fonts fields that are mandatory. Now defaults to the blog layout, old style is available via blog-by-tag layout, see archive.html.</summary></entry><entry><title type="html">Introducing Hydejack (v3)</title><link href="http://localhost:4000/2016/03/08/introducing-hydejack/" rel="alternate" type="text/html" title="Introducing Hydejack (v3)" /><published>2016-03-08T00:00:00+09:00</published><updated>2016-03-08T00:00:00+09:00</updated><id>http://localhost:4000/2016/03/08/introducing-hydejack</id><content type="html" xml:base="http://localhost:4000/2016/03/08/introducing-hydejack/">&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
 &lt;p&gt;Unlike Hyde, it’s very opinionated about how you are going to use it.&lt;/p&gt;
 
 &lt;p&gt;Features include:&lt;/p&gt;
@@ -1153,7 +1357,7 @@ to contain the unmodified markdown).&lt;/li&gt;
 &lt;!--more--&gt;
 
 &lt;p class=&quot;message&quot;&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: This post is outdated and only included for legacy reasons.
-See the &lt;a href=&quot;/https://digitalrepresentation.github.io/docs/7.5.2/&quot; class=&quot;heading flip-title&quot;&gt;Documentation&lt;/a&gt; for up-to-date instructions.&lt;/p&gt;
+See the &lt;a href=&quot;/docs/7.5.2/&quot; class=&quot;heading flip-title&quot;&gt;Documentation&lt;/a&gt; for up-to-date instructions.&lt;/p&gt;
 
 &lt;h2 id=&quot;download&quot;&gt;Download&lt;/h2&gt;
 &lt;p&gt;Hydejack is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/qwtel/hydejack&quot;&gt;GitHub repository&lt;/a&gt;
@@ -1233,42 +1437,4 @@ They will appear in the listed order.&lt;/p&gt;
     &lt;div class=&quot;language-yml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;sidebar_tags&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;pi&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;mytag&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;othertag&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;]&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>&lt;firstname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="hydejack" /><summary type="html">Features Unlike Hyde, it’s very opinionated about how you are going to use it. Features include: Touch-enabled sidebar / drawer for mobile, including fallback when JS is disabled. Github Pages compatible tag support based on this post. Customizable link color and sidebar image, per-site, per-tag and per-post. Optional author section at the bottom of each post. Optional comment section powered by Disqus. Layout for posts grouped by year Wide array of social media icons on sidebar. Math blocks via KaTeX.</summary></entry><entry><title type="html">Introducing Hyde</title><link href="http://localhost:4000/https://digitalrepresentation.github.io/2013/12/28/introducing-hyde/" rel="alternate" type="text/html" title="Introducing Hyde" /><published>2013-12-28T00:00:00+09:00</published><updated>2013-12-28T00:00:00+09:00</updated><id>http://localhost:4000/https://digitalrepresentation.github.io/2013/12/28/introducing-hyde</id><content type="html" xml:base="http://localhost:4000/https://digitalrepresentation.github.io/2013/12/28/introducing-hyde/">&lt;p&gt;Hyde is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
-
-&lt;p class=&quot;message&quot;&gt;&lt;strong&gt;NOTE&lt;/strong&gt;: This post is outdated and only included for legacy reasons.
-See the &lt;a href=&quot;/https://digitalrepresentation.github.io/docs/7.5.2/&quot;&gt;Documentation&lt;/a&gt; for up-to-date instructions.&lt;/p&gt;
-
-&lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
-
-&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Hyde here) includes the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/https://digitalrepresentation.github.io/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/https://digitalrepresentation.github.io/feed.xml&quot; class=&quot;external&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/https://digitalrepresentation.github.io/about/&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-  &lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;hyde-features&quot;&gt;Hyde features&lt;/h3&gt;
-
-&lt;p&gt;In addition to the features of Poole, Hyde adds the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
-  &lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/poole/hyde#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/poole/hyde#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
-
-&lt;h3 id=&quot;browser-support&quot;&gt;Browser support&lt;/h3&gt;
-
-&lt;p&gt;Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
-
-&lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;Hyde is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
-
-&lt;p&gt;Thanks!&lt;/p&gt;</content><author><name>&lt;firtname&gt; &lt;lastname&gt;</name><email>&lt;mail@domain.tld&gt;</email></author><category term="hyde" /><summary type="html">Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content. It’s based on Poole, the Jekyll butler.</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>Jinyoung Kim</name><email>kinemura@naver.com</email></author><category term="hydejack" /><summary type="html">Features Unlike Hyde, it’s very opinionated about how you are going to use it. Features include: Touch-enabled sidebar / drawer for mobile, including fallback when JS is disabled. Github Pages compatible tag support based on this post. Customizable link color and sidebar image, per-site, per-tag and per-post. Optional author section at the bottom of each post. Optional comment section powered by Disqus. Layout for posts grouped by year Wide array of social media icons on sidebar. Math blocks via KaTeX.</summary></entry></feed>
