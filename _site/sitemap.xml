@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/tag/java/</loc>
-<lastmod>2020-06-30T21:28:42+09:00</lastmod>
+<lastmod>2020-07-01T23:36:12+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/tag/%E3%81%9D%E3%81%AE%E4%BB%96/</loc>
-<lastmod>2020-06-30T21:28:42+09:00</lastmod>
+<lastmod>2020-07-01T23:36:12+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2012/02/06/whats-jekyll/</loc>
@@ -57,8 +57,8 @@
 <lastmod>2020-06-12T00:46:30+09:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2020/06/30/2020-06-11-%E3%81%9D%E3%81%AE%E4%BB%96_%E7%B4%B9%E4%BB%8B/</loc>
-<lastmod>2020-06-30T21:28:42+09:00</lastmod>
+<loc>http://localhost:4000/2020/06/30/Java/</loc>
+<lastmod>2020-06-30T00:00:00+09:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/licenses/Apache-2.0/</loc>

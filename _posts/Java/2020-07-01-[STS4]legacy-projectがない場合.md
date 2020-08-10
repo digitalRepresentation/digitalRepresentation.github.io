@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "日本で働いている韓国人の開発者です。"
-order:1
-slug:Java
+title: "STS4 spring legacy projectがない場合"
+slug: Java
 
-tags: [その他]
+tags: [Java]
 ---
-ㅁㄴㅇㄹㅁㄴㅇ
+test
 
 **Hydejack** is the complete package for professionals on the web.
 It features a blog suitable for both prose and technical documentation,
