@@ -26,8 +26,8 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
+    twitter:         jin03192
+    github:          digitalRepresentation
     # email:           mailto:<mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -76,8 +76,8 @@ author2:
 
     Open `_data/authors.yml` to edit this text.
   picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+  twitter:           jin03192
+  github:            digitalRepresentation
   accent_color:      '#268bd2'
   accent_image:
     background:      '#202020'
