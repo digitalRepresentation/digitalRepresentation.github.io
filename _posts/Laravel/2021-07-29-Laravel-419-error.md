@@ -6,4 +6,4 @@ slug: Laravel
 tags: [Laravel, php]
 ---
 
-[img-001]()
+[img-001](/assets/img/laravel/sidebar-bg.jpg)
