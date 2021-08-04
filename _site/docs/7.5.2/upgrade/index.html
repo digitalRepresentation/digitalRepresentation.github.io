@@ -23,39 +23,38 @@ Powered by Hydejack v7.5.2 <https://qwtel.com/hydejack/>
 
 
   
-<!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Upgrade | Jinyoungの日本IT生活話</title>
-<meta name="generator" content="Jekyll v3.8.3" />
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Upgrade | Jinyoung Kimの東京開発話</title>
+<meta name="generator" content="Jekyll v4.2.0" />
 <meta property="og:title" content="Upgrade" />
 <meta name="author" content="Jinyoung Kim" />
 <meta property="og:locale" content="en_uk" />
 <meta name="description" content="This documents how to upgrade Hydejack to a newer version. The method depends on how you’ve installed Hydejack." />
 <meta property="og:description" content="This documents how to upgrade Hydejack to a newer version. The method depends on how you’ve installed Hydejack." />
-<link rel="canonical" href="http://localhost:4000/docs/7.5.2/upgrade/" />
-<meta property="og:url" content="http://localhost:4000/docs/7.5.2/upgrade/" />
-<meta property="og:site_name" content="Jinyoungの日本IT生活話" />
+<meta property="og:site_name" content="Jinyoung Kimの東京開発話" />
 <meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Upgrade" />
 <meta name="twitter:site" content="@" />
 <meta name="twitter:creator" content="@Jinyoung Kim" />
 <script type="application/ld+json">
-{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/icons/icon.png"},"name":"Jinyoung Kim"},"author":{"@type":"Person","name":"Jinyoung Kim"},"url":"http://localhost:4000/docs/7.5.2/upgrade/","headline":"Upgrade","description":"This documents how to upgrade Hydejack to a newer version. The method depends on how you’ve installed Hydejack.","@type":"WebPage","@context":"http://schema.org"}</script>
+{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/icons/icon.png"},"name":"Jinyoung Kim"},"headline":"Upgrade","url":"/docs/7.5.2/upgrade/","author":{"@type":"Person","name":"Jinyoung Kim"},"description":"This documents how to upgrade Hydejack to a newer version. The method depends on how you’ve installed Hydejack.","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
   
 
   
-    <meta name="keywords" content="IT,韓国,일본취업">
+    <meta name="keywords" content="IT,韓国,일본취업,開発,Laravel,Vuejs,Vue">
   
 
 
 <meta name="mobile-web-app-capable" content="yes">
 
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Jinyoungの日本IT生活話">
+<meta name="apple-mobile-web-app-title" content="Jinyoung Kimの東京開発話">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
-<meta name="application-name" content="Jinyoungの日本IT生活話">
+<meta name="application-name" content="Jinyoung Kimの東京開発話">
 <meta name="msapplication-config" content="/assets/ieconfig.xml">
 
 
@@ -64,11 +63,11 @@ Powered by Hydejack v7.5.2 <https://qwtel.com/hydejack/>
 
 <meta name="generator" content="Hydejack v7.5.2">
 
-<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Jinyoungの日本IT生活話" />
+<link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Jinyoung Kimの東京開発話" />
 
 
 
-<link rel="alternate" href="http://localhost:4000/docs/7.5.2/upgrade/" hreflang="en-uk">
+<link rel="alternate" href="/docs/7.5.2/upgrade/" hreflang="en-uk">
 
 <link rel="shortcut icon" href="/assets/icons/favicon.ico">
 <link rel="apple-touch-icon" href="/assets/icons/icon.png">
@@ -227,15 +226,15 @@ and the prime reason why I suggest using the gem-based version of the theme.</p>
 <p>Generally, you’ll want to copy these files and folders:</p>
 
 <ul>
-  <li><code class="highlighter-rouge">_includes/</code></li>
-  <li><code class="highlighter-rouge">_layouts/</code></li>
-  <li><code class="highlighter-rouge">_sass/</code></li>
-  <li><code class="highlighter-rouge">assets/</code></li>
-  <li><code class="highlighter-rouge">Gemfile</code></li>
-  <li><code class="highlighter-rouge">Gemfile.lock</code></li>
+  <li><code class="language-plaintext highlighter-rouge">_includes/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">_layouts/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">_sass/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">assets/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">Gemfile</code></li>
+  <li><code class="language-plaintext highlighter-rouge">Gemfile.lock</code></li>
 </ul>
 
-<p>and merge them with your existing folder. However, you’ll also want to check out <code class="highlighter-rouge">_data</code> and <code class="highlighter-rouge">_config.yml</code> for any changes
+<p>and merge them with your existing folder. However, you’ll also want to check out <code class="language-plaintext highlighter-rouge">_data</code> and <code class="language-plaintext highlighter-rouge">_config.yml</code> for any changes
 and read latest entries to the <a href="/CHANGELOG/" class="heading flip-title">CHANGELOG</a>.</p>
 
 <p class="message"><strong>NOTE</strong>: If you’ve modified any of Hydejack’s internal files, your changes will most likely be overwritten
@@ -243,7 +242,7 @@ and you have to apply them again.
 Make sure you’ve made a backup before overwriting any files.</p>
 
 <h2 id="via-git">Via git</h2>
-<p>The latest version sits on the <code class="highlighter-rouge">master</code> branch of <a href="https://github.com/qwtel/hydejack">qwtel/hydejack</a>.
+<p>The latest version sits on the <code class="language-plaintext highlighter-rouge">master</code> branch of <a href="https://github.com/qwtel/hydejack">qwtel/hydejack</a>.
 To apply them to your repository run</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git remote add hydejack git@github.com:qwtel/hydejack.git
@@ -251,13 +250,13 @@ To apply them to your repository run</p>
 </code></pre></div></div>
 
 <h2 id="pro-version">PRO Version</h2>
-<p>Buyers of the PRO version will find the files necessary for an upgrade in the <code class="highlighter-rouge">upgrade</code> folder of the downloaded zip archive.</p>
+<p>Buyers of the PRO version will find the files necessary for an upgrade in the <code class="language-plaintext highlighter-rouge">upgrade</code> folder of the downloaded zip archive.</p>
 
 <p class="message"><strong>NOTE</strong>: If you’ve modified any of Hydejack’s internal files, your changes will most likely be overwritten
 and you have to apply them again.
 Make sure you’ve made a backup before overwriting any files.</p>
 
-<p>The archive also contains <code class="highlighter-rouge">.patch</code> files, that you can apply to your repository via <a href="https://git-scm.com/docs/git-apply">git-apply</a>.
+<p>The archive also contains <code class="language-plaintext highlighter-rouge">.patch</code> files, that you can apply to your repository via <a href="https://git-scm.com/docs/git-apply">git-apply</a>.
 Using this method, git will generate merge conflicts when changes in the patch conflict with any of your changes.</p>
 
 <h3 id="pro-via-github-advanced">PRO via GitHub (advanced)</h3>
@@ -276,7 +275,7 @@ Using this method, git will generate merge conflicts when changes in the patch c
     <footer role="contentinfo">
   <hr/>
   
-    <p><small class="copyright">キム・ジニョン © 2020. All rights reserved.
+    <p><small class="copyright">キム・ジニョン © 2021. All rights reserved.
 </small></p>
   
   
@@ -292,12 +291,14 @@ Using this method, git will generate merge conflicts when changes in the patch c
 
     <div class="sidebar-sticky">
       <div class="sidebar-about">
-        <h2 class="h1"><a href="/">Jinyoungの日本IT生活話</a></h2>
+        <h2 class="h1"><a href="/">Jinyoung Kimの東京開発話</a></h2>
         
         
           <p class="">
-            私は東京で働いている韓国人の開発者です。 趣味で勉強しながら、困ったことを解決したり、 面白い技術を紹介できるブログになるようにします。
-ありがとうございます。
+            日本に2018年度に参りました。<br />
+SIエンジニアを３年間行い、転職後の今現在は<br />
+2021年度7月から自社サービスエンジニアとなりました。<br />
+目標：シニアエンジニア。
 
           </p>
         
@@ -319,6 +320,32 @@ Using this method, git will generate merge conflicts when changes in the patch c
           
           >
           Java
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/tag/laravel/"
+          class="sidebar-nav-item"
+          
+          >
+          Laravel
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/tag/vuejs/"
+          class="sidebar-nav-item"
+          
+          >
+          Vuejs
         </a>
       </li>
     
@@ -391,7 +418,7 @@ Using this method, git will generate merge conflicts when changes in the patch c
 
 
 <li>
-  <a href="https://twitter.com/<username>" title="Twitter" class="no-mark-external">
+  <a href="https://twitter.com/jin03192" title="Twitter" class="no-mark-external">
     <span class="icon-twitter"></span>
     <span class="sr-only">Twitter</span>
   </a>
@@ -413,7 +440,7 @@ Using this method, git will generate merge conflicts when changes in the patch c
 
 
 <li>
-  <a href="https://github.com/<username>" title="GitHub" class="no-mark-external">
+  <a href="https://github.com/digitalRepresentation" title="GitHub" class="no-mark-external">
     <span class="icon-github"></span>
     <span class="sr-only">GitHub</span>
   </a>

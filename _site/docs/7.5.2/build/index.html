@@ -23,39 +23,38 @@ Powered by Hydejack v7.5.2 <https://qwtel.com/hydejack/>
 
 
   
-<!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Build | Jinyoungの日本IT生活話</title>
-<meta name="generator" content="Jekyll v3.8.3" />
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Build | Jinyoung Kimの東京開発話</title>
+<meta name="generator" content="Jekyll v4.2.0" />
 <meta property="og:title" content="Build" />
 <meta name="author" content="Jinyoung Kim" />
 <meta property="og:locale" content="en_uk" />
 <meta name="description" content="On how to prepare your Hydejack site for a production build and deployment." />
 <meta property="og:description" content="On how to prepare your Hydejack site for a production build and deployment." />
-<link rel="canonical" href="http://localhost:4000/docs/7.5.2/build/" />
-<meta property="og:url" content="http://localhost:4000/docs/7.5.2/build/" />
-<meta property="og:site_name" content="Jinyoungの日本IT生活話" />
+<meta property="og:site_name" content="Jinyoung Kimの東京開発話" />
 <meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Build" />
 <meta name="twitter:site" content="@" />
 <meta name="twitter:creator" content="@Jinyoung Kim" />
 <script type="application/ld+json">
-{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/icons/icon.png"},"name":"Jinyoung Kim"},"author":{"@type":"Person","name":"Jinyoung Kim"},"url":"http://localhost:4000/docs/7.5.2/build/","headline":"Build","description":"On how to prepare your Hydejack site for a production build and deployment.","@type":"WebPage","@context":"http://schema.org"}</script>
+{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/icons/icon.png"},"name":"Jinyoung Kim"},"headline":"Build","url":"/docs/7.5.2/build/","author":{"@type":"Person","name":"Jinyoung Kim"},"description":"On how to prepare your Hydejack site for a production build and deployment.","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
   
 
   
-    <meta name="keywords" content="IT,韓国,일본취업">
+    <meta name="keywords" content="IT,韓国,일본취업,開発,Laravel,Vuejs,Vue">
   
 
 
 <meta name="mobile-web-app-capable" content="yes">
 
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Jinyoungの日本IT生活話">
+<meta name="apple-mobile-web-app-title" content="Jinyoung Kimの東京開発話">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
-<meta name="application-name" content="Jinyoungの日本IT生活話">
+<meta name="application-name" content="Jinyoung Kimの東京開発話">
 <meta name="msapplication-config" content="/assets/ieconfig.xml">
 
 
@@ -64,11 +63,11 @@ Powered by Hydejack v7.5.2 <https://qwtel.com/hydejack/>
 
 <meta name="generator" content="Hydejack v7.5.2">
 
-<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Jinyoungの日本IT生活話" />
+<link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Jinyoung Kimの東京開発話" />
 
 
 
-<link rel="alternate" href="http://localhost:4000/docs/7.5.2/build/" hreflang="en-uk">
+<link rel="alternate" href="/docs/7.5.2/build/" hreflang="en-uk">
 
 <link rel="shortcut icon" href="/assets/icons/favicon.ico">
 <link rel="apple-touch-icon" href="/assets/icons/icon.png">
@@ -226,37 +225,37 @@ Powered by Hydejack v7.5.2 <https://qwtel.com/hydejack/>
 <a href="https://jekyllrb.com/docs/assets/#sassscss">https://jekyllrb.com/docs/assets/#sassscss</a> for details.</p>
 
 <h2 id="building-locally">Building locally</h2>
-<p>When building Hydejack it is important to set the environment variable <code class="highlighter-rouge">JEKYLL_ENV</code> to <code class="highlighter-rouge">production</code>.
-Otherwise the output will not be minified. Building itself happens via Jekyll’s <code class="highlighter-rouge">build</code> command.</p>
+<p>When building Hydejack it is important to set the environment variable <code class="language-plaintext highlighter-rouge">JEKYLL_ENV</code> to <code class="language-plaintext highlighter-rouge">production</code>.
+Otherwise the output will not be minified. Building itself happens via Jekyll’s <code class="language-plaintext highlighter-rouge">build</code> command.</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ JEKYLL_ENV</span><span class="o">=</span>production bundle <span class="nb">exec </span>jekyll build
 </code></pre></div></div>
 
-<p>This will generate the finished static files in <code class="highlighter-rouge">_site</code>,
+<p>This will generate the finished static files in <code class="language-plaintext highlighter-rouge">_site</code>,
 which can be deployed using the methods outlined in the <a href="https://jekyllrb.com/docs/deployment-methods/">Jekyll Documentation</a>.</p>
 
 <h2 id="building-locally-with-latent-semantic-analysis">Building locally with latent semantic analysis</h2>
 <p>By default, related posts are simply the most recent posts.
 Hydejack modifies this a bit, by showing the most recent posts of the same category or tag.
 However, the results are still pretty “unrelated”.
-To provide better results, Jekyll supports <a href="https://en.wikipedia.org/wiki/Latent_semantic_analysis">latent semantic analysis</a> via <a href="http://www.classifier-reborn.com/"><code class="highlighter-rouge">classifier-reborn</code></a>’s
+To provide better results, Jekyll supports <a href="https://en.wikipedia.org/wiki/Latent_semantic_analysis">latent semantic analysis</a> via <a href="http://www.classifier-reborn.com/"><code class="language-plaintext highlighter-rouge">classifier-reborn</code></a>’s
 <a href="http://www.classifier-reborn.com/lsi">Latent Semantic Indexer</a></p>
 
 <p>To use the <abbr title="Latent Semantic Indexer">LSI</abbr>, you first have to disable Hydejack’s default behavior,
-by setting <code class="highlighter-rouge">use_lsi: true</code> under the <code class="highlighter-rouge">hydejack</code> key in your config file.</p>
+by setting <code class="language-plaintext highlighter-rouge">use_lsi: true</code> under the <code class="language-plaintext highlighter-rouge">hydejack</code> key in your config file.</p>
 
 <div class="language-yml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># file: _config.yml</span>
 <span class="na">hydejack</span><span class="pi">:</span>
   <span class="na">use_lsi</span><span class="pi">:</span> <span class="no">true</span>
 </code></pre></div></div>
 
-<p>Then, you have to run <code class="highlighter-rouge">jekyll build</code> with the <code class="highlighter-rouge">--lsi</code> flag:</p>
+<p>Then, you have to run <code class="language-plaintext highlighter-rouge">jekyll build</code> with the <code class="language-plaintext highlighter-rouge">--lsi</code> flag:</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ JEKYLL_ENV</span><span class="o">=</span>production bundle <span class="nb">exec </span>jekyll build <span class="nt">--lsi</span>
 </code></pre></div></div>
 
 <p>Note that this may take a long time.
-Once it is finished, the generated static files will be located in the <code class="highlighter-rouge">_site</code> directory,
+Once it is finished, the generated static files will be located in the <code class="language-plaintext highlighter-rouge">_site</code> directory,
 which can be deployed using the methods outlined in the <a href="https://jekyllrb.com/docs/deployment-methods/">Jekyll Documentation</a>.</p>
 
 <h2 id="github-pages">GitHub Pages</h2>
@@ -272,10 +271,10 @@ which can be deployed using the methods outlined in the <a href="https://jekyllr
 </code></pre></div></div>
 
 <dl>
-  <dt><code class="highlighter-rouge">github_remote_url</code></dt>
+  <dt><code class="language-plaintext highlighter-rouge">github_remote_url</code></dt>
   <dd>Find this on your repository’s GitHub page.</dd>
-  <dt><code class="highlighter-rouge">remote_branch</code></dt>
-  <dd>Either <code class="highlighter-rouge">master</code> for “user or organization pages”, or <code class="highlighter-rouge">gh-pages</code> for “project pages”</dd>
+  <dt><code class="language-plaintext highlighter-rouge">remote_branch</code></dt>
+  <dd>Either <code class="language-plaintext highlighter-rouge">master</code> for “user or organization pages”, or <code class="language-plaintext highlighter-rouge">gh-pages</code> for “project pages”</dd>
 </dl>
 
 <p>More on <a href="https://help.github.com/articles/user-organization-and-project-pages/">user, organization, and project pages</a>.</p>
@@ -291,7 +290,7 @@ which can be deployed using the methods outlined in the <a href="https://jekyllr
     <footer role="contentinfo">
   <hr/>
   
-    <p><small class="copyright">キム・ジニョン © 2020. All rights reserved.
+    <p><small class="copyright">キム・ジニョン © 2021. All rights reserved.
 </small></p>
   
   
@@ -307,12 +306,14 @@ which can be deployed using the methods outlined in the <a href="https://jekyllr
 
     <div class="sidebar-sticky">
       <div class="sidebar-about">
-        <h2 class="h1"><a href="/">Jinyoungの日本IT生活話</a></h2>
+        <h2 class="h1"><a href="/">Jinyoung Kimの東京開発話</a></h2>
         
         
           <p class="">
-            私は東京で働いている韓国人の開発者です。 趣味で勉強しながら、困ったことを解決したり、 面白い技術を紹介できるブログになるようにします。
-ありがとうございます。
+            日本に2018年度に参りました。<br />
+SIエンジニアを３年間行い、転職後の今現在は<br />
+2021年度7月から自社サービスエンジニアとなりました。<br />
+目標：シニアエンジニア。
 
           </p>
         
@@ -334,6 +335,32 @@ which can be deployed using the methods outlined in the <a href="https://jekyllr
           
           >
           Java
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/tag/laravel/"
+          class="sidebar-nav-item"
+          
+          >
+          Laravel
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/tag/vuejs/"
+          class="sidebar-nav-item"
+          
+          >
+          Vuejs
         </a>
       </li>
     
@@ -406,7 +433,7 @@ which can be deployed using the methods outlined in the <a href="https://jekyllr
 
 
 <li>
-  <a href="https://twitter.com/<username>" title="Twitter" class="no-mark-external">
+  <a href="https://twitter.com/jin03192" title="Twitter" class="no-mark-external">
     <span class="icon-twitter"></span>
     <span class="sr-only">Twitter</span>
   </a>
@@ -428,7 +455,7 @@ which can be deployed using the methods outlined in the <a href="https://jekyllr
 
 
 <li>
-  <a href="https://github.com/<username>" title="GitHub" class="no-mark-external">
+  <a href="https://github.com/digitalRepresentation" title="GitHub" class="no-mark-external">
     <span class="icon-github"></span>
     <span class="sr-only">GitHub</span>
   </a>

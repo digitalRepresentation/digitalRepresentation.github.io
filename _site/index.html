@@ -23,40 +23,39 @@ Powered by Hydejack v7.5.2 <https://qwtel.com/hydejack/>
 
 
   
-<!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Home | Jinyoungの日本IT生活話</title>
-<meta name="generator" content="Jekyll v3.8.3" />
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Home | Jinyoung Kimの東京開発話</title>
+<meta name="generator" content="Jekyll v4.2.0" />
 <meta property="og:title" content="Home" />
 <meta name="author" content="Jinyoung Kim" />
 <meta property="og:locale" content="en_uk" />
 <meta name="description" content="The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll. Open index.html to edit this text." />
 <meta property="og:description" content="The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll. Open index.html to edit this text." />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="Jinyoungの日本IT生活話" />
-<link rel="next" href="http://localhost:4000/page-2/" />
+<meta property="og:site_name" content="Jinyoung Kimの東京開発話" />
+<link rel="next" href="/page-2/" />
 <meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Home" />
 <meta name="twitter:site" content="@" />
 <meta name="twitter:creator" content="@Jinyoung Kim" />
 <script type="application/ld+json">
-{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/icons/icon.png"},"name":"Jinyoung Kim"},"author":{"@type":"Person","name":"Jinyoung Kim"},"url":"http://localhost:4000/","name":"Jinyoungの日本IT生活話","headline":"Home","description":"The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll. Open index.html to edit this text.","@type":"WebSite","@context":"http://schema.org"}</script>
+{"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/icons/icon.png"},"name":"Jinyoung Kim"},"headline":"Home","url":"/","author":{"@type":"Person","name":"Jinyoung Kim"},"name":"Jinyoung Kimの東京開発話","description":"The official Hydejack blog. Version updates, example content and how-to guides on how to blog with Jekyll. Open index.html to edit this text.","@type":"WebSite","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
   
 
   
-    <meta name="keywords" content="IT,韓国,일본취업">
+    <meta name="keywords" content="IT,韓国,일본취업,開発,Laravel,Vuejs,Vue">
   
 
 
 <meta name="mobile-web-app-capable" content="yes">
 
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Jinyoungの日本IT生活話">
+<meta name="apple-mobile-web-app-title" content="Jinyoung Kimの東京開発話">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
-<meta name="application-name" content="Jinyoungの日本IT生活話">
+<meta name="application-name" content="Jinyoung Kimの東京開発話">
 <meta name="msapplication-config" content="/assets/ieconfig.xml">
 
 
@@ -65,11 +64,11 @@ Powered by Hydejack v7.5.2 <https://qwtel.com/hydejack/>
 
 <meta name="generator" content="Hydejack v7.5.2">
 
-<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Jinyoungの日本IT生活話" />
+<link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Jinyoung Kimの東京開発話" />
 
 
 
-<link rel="alternate" href="http://localhost:4000/" hreflang="en-uk">
+<link rel="alternate" href="/" hreflang="en-uk">
 
 <link rel="shortcut icon" href="/assets/icons/favicon.ico">
 <link rel="apple-touch-icon" href="/assets/icons/icon.png">
@@ -190,17 +189,310 @@ Powered by Hydejack v7.5.2 <https://qwtel.com/hydejack/>
   
 
 
-<article id="post-2020-06-30-Java" class="page post mb6" role="article">
+<article id="post-2021-07-29-Laravel" class="page post mb6" role="article">
   <header>
     <h1 class="post-title">
-      <a href="/2020/06/30/Java/" class="flip-title">
-        日本で働いている韓国人の開発者です。test
+      <a href="/2021/07/29/Laravel/" class="flip-title">
+        Laravel 419 errorの解決方法は
       </a>
     </h1>
 
     <p class="post-date heading">
       
-      <time datetime="2020-06-30T00:00:00+09:00">30 Jun 2020</time>
+      <time datetime="2021-07-29T00:00:00+09:00">29 Jul 2021</time>
+      
+      
+      
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+on <a href="/tag/laravel/" class="flip-title">Laravel</a>, <span>Php</span>
+
+    </p>
+
+    
+
+
+
+  <div class="hr pb0"></div>
+
+
+  </header>
+
+  
+    <p>Laravel 419 Errorが出る理由は？    <br />
+問題
+<a href="/assets/img/laravel/2021-07-29-Laravel-419-error.png">419error</a><br />
+formに引数を渡した際に、419エラーになる場合があります。</p>
+
+<p>419エラーはなんでしょうか。<br />
+419エラーはToo Many Requests、<br />
+つまりユーザーが一定時間の間に大量のrequestを送った場合、発生するエラーです。</p>
+
+<p>Laravelの４19エラーは<br />
+Csrfの認証がない場合、発生します。<br />
+@csrfをつけたら問題ないです。</p>
+
+    
+    
+    <footer>
+      <p class="read-more">
+        Continue reading <a class="heading flip-title" href="/2021/07/29/Laravel/">Laravel 419 errorの解決方法は</a>
+
+      </p>
+    </footer>
+  
+</article>
+
+
+  
+
+
+<article id="post-2021-06-25-Vuejs" class="page post mb6" role="article">
+  <header>
+    <h1 class="post-title">
+      <a href="/2021/06/25/Vuejs/" class="flip-title">
+        css scopedとは
+      </a>
+    </h1>
+
+    <p class="post-date heading">
+      
+      <time datetime="2021-06-25T00:00:00+09:00">25 Jun 2021</time>
+      
+      
+      
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+on <a href="/tag/vuejs/" class="flip-title">Vuejs</a>
+
+    </p>
+
+    
+
+
+
+  <div class="hr pb0"></div>
+
+
+  </header>
+
+  
+    <p>scoped</p>
+
+    
+    
+    <footer>
+      <p class="read-more">
+        Continue reading <a class="heading flip-title" href="/2021/06/25/Vuejs/">css scopedとは</a>
+
+      </p>
+    </footer>
+  
+</article>
+
+
+  
+
+
+<article id="post-2020-08-10-Java" class="page post mb6" role="article">
+  <header>
+    <h1 class="post-title">
+      <a href="/2020/08/10/Java/" class="flip-title">
+        プログラミングとは？
+      </a>
+    </h1>
+
+    <p class="post-date heading">
+      
+      <time datetime="2020-08-10T00:00:00+09:00">10 Aug 2020</time>
+      
+      
+      
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+on <a href="/tag/java/" class="flip-title">Java</a>
+
+    </p>
+
+    
+
+
+
+  <div class="hr pb0"></div>
+
+
+  </header>
+
+  
+    <ul>
+  <li>プログラミング：パソコンに仕事をさせるためにプログラミング言語で作ったコマンド、集合のプログラミングを作る仕事</li>
+  <li>コンパイル：プログラミングの言語をマシン語で変えてくれる仕事。</li>
+  <li>コンパイラー：マシン語を変えてくれるプログラム、JAVAを設置するとJAVAコンパイラーも設置される。</li>
+</ul>
+
+    
+    
+    <footer>
+      <p class="read-more">
+        Continue reading <a class="heading flip-title" href="/2020/08/10/Java/">プログラミングとは？</a>
+
+      </p>
+    </footer>
+  
+</article>
+
+
+  
+
+
+<article id="post-2020-08-10-Java" class="page post mb6" role="article">
+  <header>
+    <h1 class="post-title">
+      <a href="/2020/08/10/Java/" class="flip-title">
+        JAVAの履歴とは
+      </a>
+    </h1>
+
+    <p class="post-date heading">
+      
+      <time datetime="2020-08-10T00:00:00+09:00">10 Aug 2020</time>
+      
+      
+      
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+on <a href="/tag/java/" class="flip-title">Java</a>
+
+    </p>
+
+    
+
+
+
+  <div class="hr pb0"></div>
+
+
+  </header>
+
+  
+    <ul>
+  <li>1995年度ジェームズ・ゴスリンが開発した。</li>
+  <li>昔の言語C、C＋＋は直接メモリハンドリングをしました。</li>
+  <li>そのせいで、プログラミングが非勢常的にエラーになるのが多いです。</li>
+  <li>エンベットシステムも上記の症状があるので、JAVAの方が良いです。</li>
+  <li>そういうニーズを反映しました。</li>
+</ul>
+
+    
+    
+    <footer>
+      <p class="read-more">
+        Continue reading <a class="heading flip-title" href="/2020/08/10/Java/">JAVAの履歴とは</a>
+
+      </p>
+    </footer>
+  
+</article>
+
+
+  
+
+
+<article id="post-2020-07-01-Java" class="page post mb6" role="article">
+  <header>
+    <h1 class="post-title">
+      <a href="/2020/07/01/Java/" class="flip-title">
+        STS4 spring legacy projectがない場合
+      </a>
+    </h1>
+
+    <p class="post-date heading">
+      
+      <time datetime="2020-07-01T00:00:00+09:00">01 Jul 2020</time>
       
       
       
@@ -243,320 +535,11 @@ on <a href="/tag/java/" class="flip-title">Java</a>
   
     <p>test</p>
 
-
     
     
     <footer>
       <p class="read-more">
-        Continue reading <a class="heading flip-title" href="/2020/06/30/Java/">日本で働いている韓国人の開発者です。test</a>
-
-      </p>
-    </footer>
-  
-</article>
-
-
-  
-
-
-<article id="post-2020-06-12-example-content" class="page post mb6" role="article">
-  <header>
-    <h1 class="post-title">
-      <a href="/2020/06/12/example-content/" class="flip-title">
-        日本で働いている韓国人の開発者です。
-      </a>
-    </h1>
-
-    <p class="post-date heading">
-      
-      <time datetime="2020-06-12T00:46:30+09:00">12 Jun 2020</time>
-      
-      
-      
-      
-      
-
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
-
-
-
-
-
-
-on <span>その他</span>
-
-    </p>
-
-    
-
-
-
-  
-    <p class="message" >
-      123123
-
-    </p>
-  
-
-
-  </header>
-
-  
-    <p>会社ではC++、JAVA、VBを使っていますが、
-  個人的にはSWIFT、JAVAを勉強して成長していきたいと思います。</p>
-
-
-    
-    
-    <footer>
-      <p class="read-more">
-        Continue reading <a class="heading flip-title" href="/2020/06/12/example-content/">日本で働いている韓国人の開発者です。</a>
-
-      </p>
-    </footer>
-  
-</article>
-
-
-  
-
-
-<article id="post-2017-11-17-hydejacks-new-design" class="page post mb6" role="article">
-  <header>
-    <h1 class="post-title">
-      <a href="/2017/11/17/hydejacks-new-design/" class="flip-title">
-        Hydejack's New Design
-      </a>
-    </h1>
-
-    <p class="post-date heading">
-      
-      <time datetime="2017-11-17T00:00:00+09:00">17 Nov 2017</time>
-      
-      
-      
-      
-      
-
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
-
-
-
-
-
-
-on <span>Hydejack</span>
-
-    </p>
-
-    
-
-
-
-  
-    <p class="message" >
-      This post introduces Hydejack’s now background image, color palette and logo.
-
-    </p>
-  
-
-
-  </header>
-
-  
-    <p>While v7 brings an <a href="/CHANGELOG/#v700">insane amount of new stuff</a>, the most notable change is the new background image.
-It is no longer <em>anti-selling</em> the theme.
-The old image was a blurred version of Napoleon Bonaparte, which was just… weird. I could tell the story of how this came to be,
-but I’d rather show you the new and improved background image.</p>
-
-
-    
-    
-    <footer>
-      <p class="read-more">
-        Continue reading <a class="heading flip-title" href="/2017/11/17/hydejacks-new-design/">Hydejack's New Design</a>
-
-      </p>
-    </footer>
-  
-</article>
-
-
-  
-
-
-<article id="post-2017-07-27-better-gem-support" class="page post mb6" role="article">
-  <header>
-    <h1 class="post-title">
-      <a href="/2017/07/27/better-gem-support/" class="flip-title">
-        Better Gem Support (v6.5)
-      </a>
-    </h1>
-
-    <p class="post-date heading">
-      
-      <time datetime="2017-07-27T00:00:00+09:00">27 Jul 2017</time>
-      
-      
-      
-      
-      
-
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
-
-
-
-
-
-
-on <span>Hydejack</span>
-
-    </p>
-
-    
-
-
-
-  
-    <p class="message" >
-      Hydejack v6.5 includes various quality-of-life improvements, especially when using the gem-based version of the theme.
-
-    </p>
-  
-
-
-  </header>
-
-  
-    <p>This maintenance release includes various quality-of-life improvements,
-especially when using the gem-based version of the theme.
-These changes come in handy when using Hydejack for a quick (project-) page:
-The <code class="highlighter-rouge">home</code> layout, which is used when using <code class="highlighter-rouge">jekyll new</code>,
-is now a proper layout that displays a few posts/pages below the regular content,
-and it is again possible to define an author in <code class="highlighter-rouge">_config.yml</code>
-without setting up a <code class="highlighter-rouge">_data</code> directory (for more, see blow).</p>
-
-
-    
-    
-    <footer>
-      <p class="read-more">
-        Continue reading <a class="heading flip-title" href="/2017/07/27/better-gem-support/">Better Gem Support (v6.5)</a>
-
-      </p>
-    </footer>
-  
-</article>
-
-
-  
-
-
-<article id="post-2017-06-21-related-projects-and-data-tables" class="page post mb6" role="article">
-  <header>
-    <h1 class="post-title">
-      <a href="/2017/06/21/related-projects-and-data-tables/" class="flip-title">
-        Related Projects and Data Tables (v6.4)
-      </a>
-    </h1>
-
-    <p class="post-date heading">
-      
-      <time datetime="2017-06-21T00:00:00+09:00">21 Jun 2017</time>
-      
-      
-      
-      
-      
-
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
-
-
-
-
-
-
-on <span>Hydejack</span>
-
-    </p>
-
-    
-
-
-
-  
-    <p class="message" >
-      In Hydejack v6.4 I’ve added a “Other Projects” section to the bottom of each project page, making it easier for users to navigate through your collection and discover other projects.
-
-    </p>
-  
-
-
-  </header>
-
-  
-    <p>In this release I’ve added a “Other Projects” section to the bottom of each project page,
-making it easier for users to navigate through your collection and discover other projects.
-Also, it’s now possible to display larger (data-) tables that were previously cut off (especially on mobile devices).</p>
-
-
-    
-    
-    <footer>
-      <p class="read-more">
-        Continue reading <a class="heading flip-title" href="/2017/06/21/related-projects-and-data-tables/">Related Projects and Data Tables (v6.4)</a>
+        Continue reading <a class="heading flip-title" href="/2020/07/01/Java/">STS4 spring legacy projectがない場合</a>
 
       </p>
     </footer>
@@ -603,7 +586,7 @@ Also, it’s now possible to display larger (data-) tables that were previously 
     <footer role="contentinfo">
   <hr/>
   
-    <p><small class="copyright">キム・ジニョン © 2020. All rights reserved.
+    <p><small class="copyright">キム・ジニョン © 2021. All rights reserved.
 </small></p>
   
   
@@ -619,12 +602,14 @@ Also, it’s now possible to display larger (data-) tables that were previously 
 
     <div class="sidebar-sticky">
       <div class="sidebar-about">
-        <h2 class="h1"><a href="/">Jinyoungの日本IT生活話</a></h2>
+        <h2 class="h1"><a href="/">Jinyoung Kimの東京開発話</a></h2>
         
         
           <p class="">
-            私は東京で働いている韓国人の開発者です。 趣味で勉強しながら、困ったことを解決したり、 面白い技術を紹介できるブログになるようにします。
-ありがとうございます。
+            日本に2018年度に参りました。<br />
+SIエンジニアを３年間行い、転職後の今現在は<br />
+2021年度7月から自社サービスエンジニアとなりました。<br />
+目標：シニアエンジニア。
 
           </p>
         
@@ -646,6 +631,32 @@ Also, it’s now possible to display larger (data-) tables that were previously 
           
           >
           Java
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/tag/laravel/"
+          class="sidebar-nav-item"
+          
+          >
+          Laravel
+        </a>
+      </li>
+    
+  
+    
+      <li>
+        <a
+          
+          href="/tag/vuejs/"
+          class="sidebar-nav-item"
+          
+          >
+          Vuejs
         </a>
       </li>
     
