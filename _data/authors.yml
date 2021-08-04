@@ -2,32 +2,19 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Jinyoung Kim
-  email:             kinemura@naver.com
+  name:              <firstname> <lastname>
+  email:             <mail@domain.tld>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
+    test
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
     Open `_data/authors.yml` to edit this text.
 
-    2018年４月〜2021年6月　SIエンジニア
-    2021年７月〜　　　　　 自社サービスエンジニア
-
-    Native Level : Korean
-    Business Level : Japanese
-    Studying Level : English
-
-    
-    Server Language(framework, library等): Java, PHP, C#.NET, Laravel, vb.NET, spring bootが実装できるレベル。
-    Database Language: postgreSQL, Mysql, MSSQL, Oracleが実装できるレベル。
-    Client Language(framework, library等): Jquery, Javascript, HTML, Cssが実装できるレベル、vuejsが学習中。
-
-    技術ブログ、個人プロジェクトを管理中。
-   
   # This photo will be used in the about section
   picture:
     path:            https://placehold.it/128x128
@@ -42,7 +29,7 @@ author1:
   social:
     twitter:         jin03192
     github:          digitalRepresentation
-    email:           mailto:<kinemura@naver.com>
+    # email:           mailto:<mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -84,7 +71,6 @@ author2:
   name:              <firtname> <lastname>
   email:             <mail@domain.tld>
   about:             |
-    test2
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
