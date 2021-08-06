@@ -1,163 +1,224 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>/tag/java/</loc>
-<lastmod>2021-08-04T22:16:43+09:00</lastmod>
-</url>
-<url>
-<loc>/tag/laravel/</loc>
-<lastmod>2021-08-04T22:16:43+09:00</lastmod>
-</url>
-<url>
-<loc>/tag/vuejs/</loc>
-<lastmod>2021-08-04T22:16:43+09:00</lastmod>
-</url>
-<url>
-<loc>/tag/%E3%81%9D%E3%81%AE%E4%BB%96/</loc>
-<lastmod>2021-08-04T22:16:43+09:00</lastmod>
-</url>
-<url>
-<loc>/2012/02/06/whats-jekyll/</loc>
-<lastmod>2012-02-06T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2012/02/07/example-content/</loc>
-<lastmod>2012-02-07T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2013/12/28/introducing-hyde/</loc>
-<lastmod>2013-12-28T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2016/03/08/introducing-hydejack/</loc>
-<lastmod>2016-03-08T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2016/08/30/social-media-impocalypse/</loc>
-<lastmod>2016-08-30T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2016/09/17/the-fast-one/</loc>
-<lastmod>2016-09-17T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2017/05/03/javascripten/</loc>
-<lastmod>2017-05-03T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2017/06/06/third-party-scripts/</loc>
-<lastmod>2017-06-06T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2017/06/21/related-projects-and-data-tables/</loc>
-<lastmod>2017-06-21T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2017/07/27/better-gem-support/</loc>
-<lastmod>2017-07-27T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2017/11/17/hydejacks-new-design/</loc>
-<lastmod>2017-11-17T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2020/06/12/example-content/</loc>
-<lastmod>2020-06-12T00:46:30+09:00</lastmod>
-</url>
-<url>
-<loc>/2020/06/30/Java/</loc>
-<lastmod>2020-06-30T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2020/07/01/Java/</loc>
-<lastmod>2020-07-01T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2020/08/10/Java/</loc>
-<lastmod>2020-08-10T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2020/08/10/Java/</loc>
-<lastmod>2020-08-10T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2021/06/25/Vuejs/</loc>
-<lastmod>2021-06-25T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/2021/07/29/Laravel/</loc>
-<lastmod>2021-07-29T00:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>/licenses/Apache-2.0/</loc>
-</url>
-<url>
-<loc>/CHANGELOG/</loc>
-</url>
-<url>
-<loc>/licenses/GPL-3.0/</loc>
-</url>
-<url>
-<loc>/LICENSE/</loc>
-</url>
-<url>
-<loc>/licenses/MIT/</loc>
-</url>
-<url>
-<loc>/NOTICE/</loc>
-</url>
-<url>
-<loc>/licenses/PRO/</loc>
-</url>
-<url>
-<loc>/about/</loc>
-</url>
-<url>
-<loc>/docs/7.5.2/advanced/</loc>
-</url>
-<url>
-<loc>/docs/7.5.2/basics/</loc>
-</url>
-<url>
-<loc>/docs/7.5.2/build/</loc>
-</url>
-<url>
-<loc>/docs/7.5.2/config/</loc>
-</url>
-<url>
-<loc>/forms-by-example/</loc>
-</url>
-<url>
-<loc>/</loc>
-</url>
-<url>
-<loc>/docs/7.5.2/</loc>
-</url>
-<url>
-<loc>/docs/7.5.2/install/</loc>
-</url>
-<url>
-<loc>/docs/7.5.2/migration/</loc>
-</url>
-<url>
-<loc>/posts/</loc>
-</url>
-<url>
-<loc>/docs/7.5.2/scripts/</loc>
-</url>
-<url>
-<loc>/docs/7.5.2/upgrade/</loc>
-</url>
-<url>
-<loc>/docs/7.5.2/writing/</loc>
-</url>
-<url>
-<loc>/page-2/</loc>
-</url>
-<url>
-<loc>/page-3/</loc>
-</url>
-<url>
-<loc>/page-4/</loc>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//2021/08/06/eveloper/</loc>
+    </url>
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//2021/07/29/developer/</loc>
+    </url>
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//2021/06/25/developer/</loc>
+    </url>
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//2020/08/10/developer/</loc>
+    </url>
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//2020/08/10/developer/</loc>
+    </url>
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//2020/07/01/developer/</loc>
+    </url>
+    
+
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//404.html</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//licenses/Apache-2.0/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//CHANGELOG/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//licenses/GPL-3.0/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//LICENSE/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//licenses/MIT/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//NOTICE/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//licenses/PRO/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//about/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//docs/7.5.2/advanced/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//docs/7.5.2/basics/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//docs/7.5.2/build/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//docs/7.5.2/config/</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//forms-by-example/</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//docs/7.5.2/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//docs/7.5.2/install/</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//docs/7.5.2/migration/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//posts/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//docs/7.5.2/scripts/</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//docs/7.5.2/upgrade/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//docs/7.5.2/writing/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>https://digitalrepresentation.github.io//page-2/</loc>
+    </url>
+    
+    
+    
 </urlset>

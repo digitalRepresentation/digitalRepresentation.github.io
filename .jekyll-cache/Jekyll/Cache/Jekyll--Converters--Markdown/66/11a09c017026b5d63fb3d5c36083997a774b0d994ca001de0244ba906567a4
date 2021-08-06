@@ -1,0 +1,21 @@
+I"�<h2 id="canonicalカノニカルとは">Canonical(カノニカル)とは</h2>
+
+<p>canonicalとは直訳すると“標準的な”といった意味で、冒頭でもご説明したように、複数アクセスできてしまうurlの中から標準的なurlを指定する「urlの正規化」を意味します。</p>
+
+<p>カノニカルタグは<span style="color:red">サイトの内にURLは違うが、同じ内容の重複となっているページがある場合、
+ページにコードを挿入して検索エンジンに代表となるURL役割を教えてくれる役割のタグ</span>です。</p>
+
+<p>例えば、下記のように同じページですが、パラメータの値があったり、データを分析するため、コードを挿入した場合、<br />
+実は同一なページに連携されているが、URLは違う場合があります。<br />
+しかし、検索エンジンは下記のコンテンツが類似なページだと認識してしまい、<br />
+同じページを違うページだと認識されてしまいます。</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://digitalrepresentation.github.io/blog_search
+https://digitalrepresentation.github.io/blog_search?name=nomura
+https://digitalrepresentation.github.io/blog_search?utm_campaign=event
+</code></pre></div></div>
+
+<h2 id="カノニカルcanonicaltagを適用しないとどうなるのでしょうか">カノニカル(Canonical)tagを適用しないとどうなるのでしょうか。</h2>
+
+<h3 id="１subのページがmainになってしまいクローリングなる可能性がある">１。SubのページがMainになってしまいクローリングなる可能性がある。</h3>
+:ET
