@@ -3,7 +3,7 @@ layout: list
 title: Vuejs
 slug: Vuejs
 menu: true
-order: 1
+order: 3
 description: >
   Vuejs紹介
 accent_color: '#268bd2'

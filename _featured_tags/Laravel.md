@@ -3,7 +3,7 @@ layout: list
 title: Laravel
 slug: Laravel
 menu: true
-order: 1
+order: 2
 description: >
   Laravelで困った内容を解決とともに共有いたします。
 accent_color: '#268bd2'
