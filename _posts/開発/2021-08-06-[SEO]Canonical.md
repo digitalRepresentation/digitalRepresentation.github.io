@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Canonicalタグとは"
-slug: eveloper
+slug: Canoicalとは
 
 tags: [Canonical, SEO, SEOCanonical, カノニカル, カノニカルとは, Canonicalとは]
 ---

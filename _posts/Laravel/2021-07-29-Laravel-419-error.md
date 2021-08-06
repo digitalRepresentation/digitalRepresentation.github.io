@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laravel 419 errorの解決方法は"
-slug: developer
+slug: Laravel-419-error
 
 tags: [Laravel, php]
 ---
