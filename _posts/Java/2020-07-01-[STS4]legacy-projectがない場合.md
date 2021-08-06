@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "STS4 spring legacy projectがない場合"
-slug: Java, developer
+slug: developer
 
 tags: [Java]
 ---
