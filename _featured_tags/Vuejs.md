@@ -2,7 +2,7 @@
 layout: list
 title: Vuejs
 slug: Vuejs
-menu: true
+menu: false
 order: 3
 description: >
   Vuejs紹介

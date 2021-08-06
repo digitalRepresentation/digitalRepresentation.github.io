@@ -2,7 +2,7 @@
 layout: list
 title: Laravel
 slug: Laravel
-menu: true
+menu: false
 order: 2
 description: >
   Laravelで困った内容を解決とともに共有いたします。
