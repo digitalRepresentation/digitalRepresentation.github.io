@@ -6,8 +6,8 @@
 </description>
     <link>https://digitalrepresentation.github.io//</link>
     <atom:link href="https://digitalrepresentation.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Aug 2021 23:57:46 +0900</pubDate>
-    <lastBuildDate>Fri, 06 Aug 2021 23:57:46 +0900</lastBuildDate>
+    <pubDate>Sat, 07 Aug 2021 01:05:25 +0900</pubDate>
+    <lastBuildDate>Sat, 07 Aug 2021 01:05:25 +0900</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -35,7 +35,7 @@ https://digitalrepresentation.github.io/blog_search?utm_campaign=event
 &lt;p&gt;&lt;strong&gt;https://digitalrepresentation.github.io/blog_search&lt;/strong&gt;をメインだと認識してしまい、
 メイン以外のページのクローリングを少なくする可能性があります。&lt;/p&gt;
 
-&lt;h3 id=&quot;２検索エンジンにペナルティーをもら宇賀農政がある&quot;&gt;２。検索エンジンにペナルティーをもら宇賀農政がある。&lt;/h3&gt;
+&lt;h3 id=&quot;２検索エンジンにペナルティーをもらう可能性がある&quot;&gt;２。検索エンジンにペナルティーをもらう可能性がある。&lt;/h3&gt;
 &lt;p&gt;同じページが各々のurlに分散されている場合、&lt;br /&gt;
 集客が多いと思うのですが、実は一つのURLより集客率が低くなります。&lt;/p&gt;
 
@@ -52,8 +52,10 @@ htmlのheadタグの中に入ります。&lt;/p&gt;
 &lt;h2 id=&quot;seo対策をして利益をあげていきましょう&quot;&gt;SEO対策をして利益をあげていきましょう！&lt;/h2&gt;
 </description>
         <pubDate>Fri, 06 Aug 2021 00:00:00 +0900</pubDate>
-        <link>https://digitalrepresentation.github.io//2021/08/06/eveloper/</link>
-        <guid isPermaLink="true">https://digitalrepresentation.github.io//2021/08/06/eveloper/</guid>
+        <link>https://digitalrepresentation.github.io//2021/08/06/Canoical%E3%81%A8%E3%81%AF/</link>
+        <guid isPermaLink="true">https://digitalrepresentation.github.io//2021/08/06/Canoical%E3%81%A8%E3%81%AF/</guid>
+        
+        <category>developer</category>
         
         <category>Canonical</category>
         
@@ -86,8 +88,10 @@ Csrfの認証がない場合、発生します。&lt;br /&gt;
 @csrfをつけたら問題ないです。&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Jul 2021 00:00:00 +0900</pubDate>
-        <link>https://digitalrepresentation.github.io//2021/07/29/developer/</link>
-        <guid isPermaLink="true">https://digitalrepresentation.github.io//2021/07/29/developer/</guid>
+        <link>https://digitalrepresentation.github.io//2021/07/29/Laravel-419-error/</link>
+        <guid isPermaLink="true">https://digitalrepresentation.github.io//2021/07/29/Laravel-419-error/</guid>
+        
+        <category>developer</category>
         
         <category>Laravel</category>
         
@@ -121,6 +125,8 @@ Csrfの認証がない場合、発生します。&lt;br /&gt;
         <link>https://digitalrepresentation.github.io//2020/08/10/developer/</link>
         <guid isPermaLink="true">https://digitalrepresentation.github.io//2020/08/10/developer/</guid>
         
+        <category>developer</category>
+        
         <category>Java</category>
         
         
@@ -139,6 +145,8 @@ Csrfの認証がない場合、発生します。&lt;br /&gt;
         <pubDate>Mon, 10 Aug 2020 00:00:00 +0900</pubDate>
         <link>https://digitalrepresentation.github.io//2020/08/10/developer/</link>
         <guid isPermaLink="true">https://digitalrepresentation.github.io//2020/08/10/developer/</guid>
+        
+        <category>developer</category>
         
         <category>Java</category>
         
@@ -337,6 +345,8 @@ built-in support for &lt;a href=&quot;https://tinyletter.com/&quot;&gt;Tinylette
         <pubDate>Wed, 01 Jul 2020 00:00:00 +0900</pubDate>
         <link>https://digitalrepresentation.github.io//2020/07/01/developer/</link>
         <guid isPermaLink="true">https://digitalrepresentation.github.io//2020/07/01/developer/</guid>
+        
+        <category>developer</category>
         
         <category>Java</category>
         

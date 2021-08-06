@@ -1,4 +1,4 @@
-I"�<h2 id="canonicalカノニカルとは">Canonical(カノニカル)とは</h2>
+I"W<h2 id="canonicalカノニカルとは">Canonical(カノニカル)とは</h2>
 
 <p>canonicalとは直訳すると“標準的な”といった意味で、冒頭でもご説明したように、複数アクセスできてしまうurlの中から標準的なurlを指定する「urlの正規化」を意味します。</p>
 
@@ -18,4 +18,22 @@ https://digitalrepresentation.github.io/blog_search?utm_campaign=event
 <h2 id="カノニカルcanonicaltagを適用しないとどうなるのでしょうか">カノニカル(Canonical)tagを適用しないとどうなるのでしょうか。</h2>
 
 <h3 id="１subのページがmainになってしまいクローリングなる可能性がある">１。SubのページがMainになってしまいクローリングなる可能性がある。</h3>
+<p><strong>https://digitalrepresentation.github.io/blog_search</strong>をメインだと認識してしまい、
+メイン以外のページのクローリングを少なくする可能性があります。</p>
+
+<h3 id="２検索エンジンにペナルティーをもらう可能性がある">２。検索エンジンにペナルティーをもらう可能性がある。</h3>
+<p>同じページが各々のurlに分散されている場合、<br />
+集客が多いと思うのですが、実は一つのURLより集客率が低くなります。</p>
+
+<h2 id="カノニカルcanonicaltagの使用方法は何でしょうか">カノニカル(Canonical)tagの使用方法は何でしょうか。</h2>
+
+<p>下記のようにメインのurlを指定してつけたら大丈夫です。
+htmlのheadタグの中に入ります。</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;head&gt;</span>
+   <span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"canonical"</span> <span class="na">href=</span><span class="s">"https://digitalrepresentation.github.io/blog_search"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;/head&gt;</span>
+</code></pre></div></div>
+
+<h2 id="seo対策をして利益をあげていきましょう">SEO対策をして利益をあげていきましょう！</h2>
 :ET
