@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "css scopedとは"
-slug: Vuejs
+slug: Vuejs, developer
 
 tags: [Vuejs]
 ---
