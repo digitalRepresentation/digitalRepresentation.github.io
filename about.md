@@ -3,7 +3,7 @@ layout: about
 title: About
 description: >
 
-menu: true
+menu: false
 order: 4
 ---
 
