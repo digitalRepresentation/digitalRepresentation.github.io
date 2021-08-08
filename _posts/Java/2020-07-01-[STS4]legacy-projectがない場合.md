@@ -2,7 +2,7 @@
 layout: post
 title: "STS4 spring legacy projectがない場合"
 slug: developer
-
+comments: true
 tags: [developer, Java]
 ---
 test
