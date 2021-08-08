@@ -1,7 +1,9 @@
-I"?<p>Laravel 419 Errorが出る理由は？    <br />
+I"�<p>Laravel 419 Errorが出る理由は？    <br />
 問題
-<a href="/assets/img/laravel/2021-07-29-Laravel-419-error.png">419error</a><br />
-formに引数を渡した際に、419エラーになる場合があります。</p>
+<!-- [419error](/assets/img/laravel/2021-07-29-Laravel-419-error.png)   -->
+<img src="https://drive.google.com/uc?export=view&amp;id=1OwkpAE6vTWfUsXzioRFHQLvH0Fl-jFPO" width="700" height="370" /></p>
+
+<p>formに引数を渡した際に、419エラーになる場合があります。</p>
 
 <p>419エラーはなんでしょうか。<br />
 419エラーはToo Many Requests、<br />

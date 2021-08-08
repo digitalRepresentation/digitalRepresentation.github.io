@@ -8,18 +8,20 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    2018年４月〜2021年6月　SIエンジニア
-    2021年７月〜　　　　　 自社サービスエンジニア  
-
-    Native Level : Korean
-    Business Level : Japanese  
-    Studying Level : English  
-
-    Server Language(framework, library等) : Java, PHP, C#.NET, Laravel, vb.NET, spring bootが実装できるレベル。
-    Database Language : postgreSQL, Mysql, MSSQL, Oracleが実装できるレベル。
-    Client Language(framework, library等) : Jquery, Javascript, HTML, Cssが実装できるレベル、vuejsが学習中。 
     
-    技術ブログ、個人プロジェクトを管理中。
+    2018年４月〜2021年6月　SIエンジニア  
+    2021年７月〜　　　　　 自社サービスエンジニア  
+        
+    Native Level   | Korean  
+    Business Level | Japanese  
+    Studying Level | English  
+      
+    Server        | DB            |  Client        
+    Java          |  postgreSQL   |  Jquery
+    C#.NET        |  Mysql        |  Javascript
+    Laravel       |  MSSQL        |  HTML
+    vb.NET        |  Oracle       |  Css
+    spring boot   |               |  Vue.js
 
   # This photo will be used in the about section
   picture:
@@ -35,7 +37,7 @@ author1:
   social:
     twitter:         jin03192
     github:          digitalRepresentation
-    # email:           mailto:<mail@domain.tld>
+    email:           mailto:<kinemura@naver.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
