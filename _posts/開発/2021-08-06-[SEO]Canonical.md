@@ -3,7 +3,7 @@ layout: post
 title: "Canonicalタグとは"
 slug: Canoicalとは
 comments: true
-tags: [developer, Canonical, SEO, SEOCanonical, カノニカル, カノニカルとは, Canonicalとは]
+tags: [developer]
 ---
   
 ## Canonical(カノニカル)とは
