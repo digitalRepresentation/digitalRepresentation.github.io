@@ -28,4 +28,4 @@ laravelを設定してもPATHを記載してなかったので下記の問題が
 $export PATH=$HOME/.composer/vendor/bin:$PATH
 ```
     
-下記のようにlaravelのパスを設定すると問題解決です。  
+上記のようにlaravelのパスを設定すると問題解決です。  
