@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[javascript]innerHTMLでHTMLコードを追加してみよう"
-slug: phpmyadmin-loginform
+slug: javascript-innerhtml
 comments: true
 tags: [developer]
 ---
