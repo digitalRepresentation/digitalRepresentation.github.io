@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "javascriptやcssの外部ファイルが更新されない時に対処方法"
-slug: gitignore-mean
+slug: javascript-css-outsider-file-modify
 comments: true
 tags: [developer]
 ---
