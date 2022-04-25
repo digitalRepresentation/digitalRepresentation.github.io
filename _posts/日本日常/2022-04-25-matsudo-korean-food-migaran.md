@@ -48,19 +48,4 @@ tags: [japan-life]
 
 
 
-画像はmacOSの環境です。  
-
-## htdocsはどこにあるのか。
-実はxamppの中にxamppfilesというフォルダがあります。  
-そこをクリックしてくださいませ。  
-
-<img src="https://drive.google.com/uc?export=view&id=1q4qJdMSPG4pgTfLUdM2ISZazlJFtblo5"  width="700" height="370">
-
-クリックしてみるといろんなフォルダが見えると思いますが、  
-実はここでもhtdocsがありました。  
-htdocsの中にソースコードがありますので、
-ご確認のほど宜しくお願いいたします。  
-
-<img src="https://drive.google.com/uc?export=view&id=1PUa3hgvoJraskug0_MnSv3ztBakdbOCA"  width="700" height="370">
-
 不明点がございましたら、コメントをお願いいたします。  
