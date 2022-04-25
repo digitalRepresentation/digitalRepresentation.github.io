@@ -3,7 +3,7 @@ layout: post
 title: "松戸の美味しい韓国料理をおすすめ！（味嘉廊）"
 slug: matsudo-korean-food-migaran
 comments: true
-tags: [developer]
+tags: [japan-life]
 ---
 松戸の美味しい韓国料理をおすすめ！（味嘉廊）  
 
