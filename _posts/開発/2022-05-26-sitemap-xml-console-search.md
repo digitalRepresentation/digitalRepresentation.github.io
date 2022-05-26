@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "jekyllのブログがSearch Consoleのsitemapsが認識できない場合"
-slug: sitemap-xml-consolse-search
+slug: sitemap-xml-console-search
 comments: true
 tags: [developer]
 ---
