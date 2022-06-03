@@ -5,6 +5,7 @@ slug: javascript-innerhtml
 comments: true
 tags: [developer]
 ---
+<img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL"  width="700" height="370">
   
 ## innerHTMLでHTMLコードを追加してみよう
 

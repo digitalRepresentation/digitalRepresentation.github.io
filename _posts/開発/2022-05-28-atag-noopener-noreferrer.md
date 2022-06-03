@@ -5,6 +5,7 @@ slug: atag-noopener-noreferrer
 comments: true
 tags: [developer]
 ---
+<img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL"  width="700" height="370">
 atagの_blankセキュリティと、性能問題について
 
 ## aタグで_blankをする時に性能とセキュリティが良くないことを知っていますか。

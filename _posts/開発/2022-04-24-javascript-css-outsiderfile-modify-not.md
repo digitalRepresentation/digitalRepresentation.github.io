@@ -5,6 +5,7 @@ slug: javascript-css-outsider-file-modify
 comments: true
 tags: [developer]
 ---
+<img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL"  width="700" height="370">
 javascriptやcssの外部ファイルが更新されない時に対処方法    
 
 ## cssやjavascriptはどこで管理する方が良いか。
