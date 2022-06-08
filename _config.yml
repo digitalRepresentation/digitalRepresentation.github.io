@@ -22,7 +22,7 @@ url:                  https://digitalrepresentation.github.io
 lang:                  en-uk
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 韓国開発者の開発、韓国話
+title:                 jinyoungのIT house
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -31,13 +31,12 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               |
-  日本に2018年度に参りました。  
-  SIエンジニアを３年間行い、転職後の今現在は  
-  2021年度7月から自社サービスエンジニアとなりました。  
-  目標：シニアエンジニア。    
+  プログラミング：typescript、React.js、php、cs知識、DB情報共有。
+  その他：日本の生活で感じたこと等の情報。
+  ブログ2022年度も頑張って投稿しております。
 
 # A list of keywords for your blog
-keywords:              [IT, 韓国, 일본취업, 開発, Laravel, Vuejs, Vue]
+keywords:              [IT, 韓国, reactjs, php, typescript, javascript]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/icon.png
@@ -48,7 +47,7 @@ author:
   name:                Jinyoung Kim
   email:               kinemura@naver.com
   # Used by `jekyll-seo-tag`:
-twitter:             jin03192@naver.com
+# twitter:             jin03192@naver.com
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             キム・ジニョン © 2021~2022. All rights reserved.
@@ -219,7 +218,7 @@ twitter: jin03192@naver.com
 username: digitalrepresentation
 
 # Used for Facebook open graph
-facebook: upjj7@naver.com
+# facebook: upjj7@naver.com
 #   app_id:              <id>
 #   publisher:           <id>
 #   admins:              <id>
