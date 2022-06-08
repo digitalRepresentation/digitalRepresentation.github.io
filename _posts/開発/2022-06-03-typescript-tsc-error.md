@@ -14,7 +14,7 @@ zsh: command not found: tsc
 
 ## tscのコマンドが効かない時
 typescriptを設置してもtscコマンドがうまく効かない場合があります。  
-その時は下記のコマンドを入力すれば解決できす。  
+その時は下記のコマンドを入力すれば解決できます。  
 ```shell
 npm install typescript -g
 ```
