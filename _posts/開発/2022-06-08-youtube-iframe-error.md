@@ -15,8 +15,8 @@ youtubeの動画をiframeのsrcで挿入する際に、www.youtube.comで接続�
 <img src="https://drive.google.com/uc?export=view&id=1trmBl-Do9JLcqCq1c6OrsJaMW78gbJtO" alt="typescriptとは"  width="700" height="370" alt="www.youtube.comで接続が拒否">
 
 なので下記のurlみたいにshortsをembedに変更すれば問題解決となります。  
-修正前：www.youtube.com/<span style="color:red; font-weight: bold;">shorts</p>/c3UIJLv-bzs  
-修正後：www.youtube.com/<span style="color:red; font-weight: bold;">embed</p>/c3UIJLv-bzs  
+修正前：www.youtube.com/<span style="color:red; font-weight: bold;">shorts</span>/c3UIJLv-bzs  
+修正後：www.youtube.com/<span style="color:red; font-weight: bold;">embed</span>/c3UIJLv-bzs  
 
 ## 「www.youtube.com で接続が拒否されました。」解決
 下記のようにshortsをembedに修正すると、  
