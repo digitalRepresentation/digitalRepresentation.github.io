@@ -30,12 +30,12 @@ tags: [travel]
 周りに変な形の木が多いため、運転をする時は要注意です。  
 動画もあるのでご覧くださいませ。  
 
-<iframe width="420" height="345" src="https://youtube.com/shorts/c3UIJLv-bzs?feature=share">
+<iframe src="https://youtube.com/embed/c3UIJLv-bzs">
 </iframe>
 
 ## まとめ
 かなり美しいところでした。
 自然を満喫したいであれば、こちらの白糸の滝に行ってくるのも楽しいです。  
 
-<iframe width="420" height="345" src="https://youtube.com/shorts/U1X1vnCkUng?feature=share">
+<iframe width="300" height="600" src="https://youtube.com/embed/U1X1vnCkUng">
 </iframe>
