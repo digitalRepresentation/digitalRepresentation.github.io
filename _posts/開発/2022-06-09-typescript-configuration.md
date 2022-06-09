@@ -62,11 +62,11 @@ lite-serverを通してこのプロジェクトに使われるツールを設置
 ```shell
 npm install --save-dev lite-server
 ```
-<img src="https://drive.google.com/uc?export=view&id=124Nou7OPrxMwfJLbFAF2lbmEiWFdl6WA" width="700" height="350" alt="lite-server">
+<img src="https://drive.google.com/uc?export=view&id=124Nou7OPrxMwfJLbFAF2lbmEiWFdl6WA" width="1000" height="350" alt="lite-server">
 
 ## package.jsonファイルに入ってlite-serverを記載します。  
 色んなファイルができましたが、package.jsonに入って内容を修正します。  
-<img src="https://drive.google.com/uc?export=view&id=1iw1mHWvMHv5KQRa9OvdtuynkB3n6RmE-" width="700" height="700" alt="lite-server">
+<img src="https://drive.google.com/uc?export=view&id=1iw1mHWvMHv5KQRa9OvdtuynkB3n6RmE-" width="1200" height="700" alt="lite-server">
 ```javascript
 "test": "echo \"Error: no test specified\" && exit 1",
 "start": "lite-server"
@@ -78,7 +78,7 @@ localhost:3000のアドレスでサーバーが入れます。
 ```shell
 npm start
 ```
-<img src="https://drive.google.com/uc?export=view&id=1kK45RqnuJCQIgfo3NLni9jF_Tn5A1fag" width="700" height="400" alt="lite-server">
+<img src="https://drive.google.com/uc?export=view&id=1kK45RqnuJCQIgfo3NLni9jF_Tn5A1fag" width="550" height="400" alt="lite-server">
 
 ## tsc --initを入力するとtsconfig.jsonファイルができます。  
 プロジェクト全部watchモードを使うのであれば、下記の内容を叩いて使います。  
