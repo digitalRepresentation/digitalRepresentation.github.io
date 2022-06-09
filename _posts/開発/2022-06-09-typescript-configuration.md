@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "typescript環境構築をする方法"
-slug: typescript環境構築をする方法
+slug: typescript-環境構築をする-方法
 comments: true
 tags: [developer]
 ---
