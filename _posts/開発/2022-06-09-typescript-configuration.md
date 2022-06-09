@@ -66,7 +66,7 @@ npm install --save-dev lite-server
 
 ## package.jsonファイルに入ってlite-serverを記載します。  
 色んなファイルができましたが、package.jsonに入って内容を修正します。  
-<img src="https://drive.google.com/uc?export=view&id=1iw1mHWvMHv5KQRa9OvdtuynkB3n6RmE-" width="3000" height="700" alt="lite-server">
+<img src="https://drive.google.com/uc?export=view&id=1iw1mHWvMHv5KQRa9OvdtuynkB3n6RmE-" width="3000" alt="lite-server">
 ```javascript
 "test": "echo \"Error: no test specified\" && exit 1",
 "start": "lite-server"
