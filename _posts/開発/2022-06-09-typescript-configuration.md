@@ -25,7 +25,7 @@ node.jsをダウンロードするとnpmが入っているので、node.jsをダ
 [nodejsページ](https://nodejs.org/ja/).  
 二つのバージョンがありますが、最近のバージョンは安定的ではないので、  
 推奨版を使用してください。  
-<img src="https://drive.google.com/uc?export=view&id=1TLk2cjUsgISYSXrHp6TEfox3wlysHFmI"　width="800" height="300" alt="nodejs設置方法">
+<img src="https://drive.google.com/uc?export=view&id=1TLk2cjUsgISYSXrHp6TEfox3wlysHFmI" width="800" height="300" alt="nodejs設置方法">
 設置が完了できましたら、commandでnodeバージョンが確認できます。  
 ```shell
 node --version
