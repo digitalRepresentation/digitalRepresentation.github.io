@@ -76,4 +76,4 @@ urlsetの内容を追加してください。
 
 一ヶ月ぐらいでsitemap.xmlがgoogle search consoleに使えるようになりました。  
 僕はgoogleアカウントが韓国語なので、下記のようになります。  
-<img src="https://drive.google.com/uc?export=view&id=1sE2UzWQMjmQ21s8MOkldFuLv7_-R8v9L"  width="700" height="370"> 
+<img src="https://drive.google.com/uc?export=view&id=1sE2UzWQMjmQ21s8MOkldFuLv7_-R8v9L"  width="700"> 

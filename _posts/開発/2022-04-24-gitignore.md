@@ -18,7 +18,7 @@ gitのバージョン管理ツールで特定なファイルを除外するリ�
 projectを作成する際に作れますが、  
 もしかしてその時に作ってなくてもroot内に.gitignoreファイルを作れば大丈夫です。  
 僕の場合はxamppの環境で作業をしているので、.gitignoreを作ってなくて、手でファイルを作成しました。  
-<img src="https://drive.google.com/uc?export=view&id=11iWos6dQFHMLzomc2Z7aGabRp7l_b3HP"  width="700" height="370"> 
+<img src="https://drive.google.com/uc?export=view&id=11iWos6dQFHMLzomc2Z7aGabRp7l_b3HP"  width="700"> 
 
 ## gitignoreはなんで使うの？
 gitignoreが必要な理由は製品のビルド情報やファイルのバックアップ情報、そして環境構築に必要なファイルでIDとPASSWORDを作成するファイルを隠すためにです。  

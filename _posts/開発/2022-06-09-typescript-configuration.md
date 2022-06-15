@@ -25,7 +25,7 @@ node.jsをダウンロードするとnpmが入っているので、node.jsをダ
 [nodejsページ](https://nodejs.org/ja/).  
 二つのバージョンがありますが、最近のバージョンは安定的ではないので、  
 推奨版を使用してください。  
-<img src="https://drive.google.com/uc?export=view&id=1TLk2cjUsgISYSXrHp6TEfox3wlysHFmI" width="800" height="300" alt="nodejs設置方法">
+<img src="https://drive.google.com/uc?export=view&id=1TLk2cjUsgISYSXrHp6TEfox3wlysHFmI" width="800" alt="nodejs設置方法">
 設置が完了できましたら、commandでnodeバージョンが確認できます。  
 ```shell
 node --version
@@ -49,12 +49,12 @@ tsc versionが確認できない場合があります。
 ## プロジェクトのルートからnpm initを叩きます。
 基本的にenterキーを押すと、defaultなので構いません。  
 全部最後までenterキーを押してください。  
-<img src="https://drive.google.com/uc?export=view&id=1NxZgpXYa1HWYJDkkcflTCmCbRcraQeSq" width="800" height="600" alt="npm init入力方法">
+<img src="https://drive.google.com/uc?export=view&id=1NxZgpXYa1HWYJDkkcflTCmCbRcraQeSq" width="800" alt="npm init入力方法">
 
 ## 内部にpackage.jsonファイルが入れることを確認します。  
 package.jsonはサーバーに関する内容なので、  
 ファイルがルート内にあレバ問題ないです。  
-<img src="https://drive.google.com/uc?export=view&id=1BumTdbH-bNLZTUN_YYZckfDtqSZryUWT" width="200" height="200" alt="package json">
+<img src="https://drive.google.com/uc?export=view&id=1BumTdbH-bNLZTUN_YYZckfDtqSZryUWT" width="200" alt="package json">
 
 ## npm install --save-dev lite-serverを通してこのプロジェクトに使われるツールを設置するために叩きます。  
 lite-serverを通してこのプロジェクトに使われるツールを設置できるように叩きます。  
@@ -62,7 +62,7 @@ lite-serverを通してこのプロジェクトに使われるツールを設置
 ```shell
 npm install --save-dev lite-server
 ```
-<img src="https://drive.google.com/uc?export=view&id=124Nou7OPrxMwfJLbFAF2lbmEiWFdl6WA" width="1000" height="200" alt="lite-server">
+<img src="https://drive.google.com/uc?export=view&id=124Nou7OPrxMwfJLbFAF2lbmEiWFdl6WA" width="1000" alt="lite-server">
 
 ## package.jsonファイルに入ってlite-serverを記載します。  
 色んなファイルができましたが、package.jsonに入って内容を修正します。  
@@ -78,7 +78,7 @@ localhost:3000のアドレスでサーバーが入れます。
 ```shell
 npm start
 ```
-<img src="https://drive.google.com/uc?export=view&id=1kK45RqnuJCQIgfo3NLni9jF_Tn5A1fag" width="700" height="400" alt="lite-server">
+<img src="https://drive.google.com/uc?export=view&id=1kK45RqnuJCQIgfo3NLni9jF_Tn5A1fag" width="700" alt="lite-server">
 
 ## tsc --initを入力するとtsconfig.jsonファイルができます。  
 プロジェクト全部watchモードを使うのであれば、下記の内容を叩いて使います。  
@@ -88,7 +88,7 @@ watchモードについては説明文を記載しましたので、ご確認く
 tsc --init
 ```
 
-<img src="https://drive.google.com/uc?export=view&id=1kK45RqnuJCQIgfo3NLni9jF_Tn5A1fag" width="700" height="300" alt="lite-server">
+<img src="https://drive.google.com/uc?export=view&id=1kK45RqnuJCQIgfo3NLni9jF_Tn5A1fag" width="700" alt="lite-server">
 
 
 

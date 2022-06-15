@@ -5,7 +5,7 @@ slug: typescript-so-much
 comments: true
 tags: [developer]
 ---
-<img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL" alt="typescriptとは"  width="700" height="370">
+<img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL" alt="typescriptとは"  width="700">
 
 # typescriptとは
 typescriptはjavascriptの<span style="color=red;">SuperSetです。  
