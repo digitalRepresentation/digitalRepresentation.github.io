@@ -26,19 +26,19 @@ tags: [travel]
 キリン一番搾りの作り方の説明を聞くし、本当の材料（麦、ホップ）を観察して、  
 ビールを保存するものも見学できます。  
 
-<img src="https://drive.google.com/uc?export=view&id=1J3CdWUq1e2GUGsslLC-UkJ0qqhOuoMV7"  width="700">
+<img src="https://drive.google.com/uc?export=view&id=1J3CdWUq1e2GUGsslLC-UkJ0qqhOuoMV7"  width="700" alt="茨城キリンビール工場">
 
 最後でビールも飲めるので、ぜひいっぱい飲んでみてください。  
 
-<img src="https://drive.google.com/uc?export=view&id=1hIJsL1lq2a3S-0JMNX4nrhNOamUkSEnb"  width="700">
+<img src="https://drive.google.com/uc?export=view&id=1hIJsL1lq2a3S-0JMNX4nrhNOamUkSEnb"  width="700" alt="茨城キリンビール工場">
 
 その上で、コロナ制限しているので、いろんな種類のお酒も飲めます。 
 
-<img src="https://drive.google.com/uc?export=view&id=1KVjQwTpyEXzCmg2fy8OEpn2_XeuR4vVW"  width="700">
+<img src="https://drive.google.com/uc?export=view&id=1KVjQwTpyEXzCmg2fy8OEpn2_XeuR4vVW"  width="700" alt="茨城キリンビール工場">
 
   
 ## キリンビールの記念品
 お酒を飲んだ後で、キリンビールの記念品コナーで記念の物の購入も可能です。  
 カップ、チョコレートみたいなのを売っているので、購入してプレゼントするのはいかがでしょうか。  
 
-<img src="https://drive.google.com/uc?export=view&id=19-W26HaiZQ73F-4AapMKe-8JmvkICSfY"  width="700">
+<img src="https://drive.google.com/uc?export=view&id=19-W26HaiZQ73F-4AapMKe-8JmvkICSfY"  width="700" alt="茨城キリンビール工場">

@@ -30,7 +30,7 @@ tags: [japan-life]
 今まで日本で食べてなかった韓国の味がして感動しました。  
 本物でした。  
 
-<img src="https://drive.google.com/uc?export=view&id=1a4M8WzoWrix2HCCTvTVSf2NYLinkTB5-"  width="700">
+<img src="https://drive.google.com/uc?export=view&id=1a4M8WzoWrix2HCCTvTVSf2NYLinkTB5-"  width="700" alt="松戸味嘉廊">
 
 野菜とかきのこもいっぱい入っていて韓国にいる感じでした。  
 そして、日本人が食べてみても本当に美味しかったです。  
