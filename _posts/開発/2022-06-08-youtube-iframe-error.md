@@ -4,6 +4,7 @@ title: "「www.youtube.comで接続が拒否されました。」のエラー対
 slug: youtube-iframe-error
 comments: true
 tags: [developer]
+---
 
 <img src="https://drive.google.com/uc?export=view&id=11PGGZrXOSYSkbMxiM-p1vwqZoOxan8wR" alt="youtube error"  width="700">
 
