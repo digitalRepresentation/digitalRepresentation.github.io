@@ -5,7 +5,7 @@ slug: typescript-watch-mode
 comments: true
 tags: [developer]
 ---
-<img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL"  width="700">
+<img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov"  width="700" alt="typescript">
 
 ## 一つのtypescriptファイルを自動でコンパイルする方法
 typescriptを変更するたびに変更内容をページで自動に反映されたい時はwatchモードを使えば問題ないです。  

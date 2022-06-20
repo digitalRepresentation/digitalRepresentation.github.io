@@ -6,7 +6,7 @@ comments: true
 tags: [developer]
 ---
 # typescriptのtypeとは
-<img src="https://drive.google.com/uc?export=view&id=1Q4prhk1hbS4lVqR7cE5qjrgcIFjqE-eb" alt="タイプスクリプトのタイプ"  width="700" >
+<img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov" alt="タイプスクリプトのタイプ"  width="700" >
 typescriptのタイプは12個あります。  
 typeを名義する際は必ず小文字で入力します。
 1. String  

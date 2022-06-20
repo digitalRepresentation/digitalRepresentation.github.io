@@ -78,7 +78,7 @@ localhost:3000のアドレスでサーバーが入れます。
 ```shell
 npm start
 ```
-<img src="https://drive.google.com/uc?export=view&id=1kK45RqnuJCQIgfo3NLni9jF_Tn5A1fag" width="700" alt="lite-server">
+<img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov" width="700" alt="lite-server">
 
 ## tsc --initを入力するとtsconfig.jsonファイルができます。  
 プロジェクト全部watchモードを使うのであれば、下記の内容を叩いて使います。  
