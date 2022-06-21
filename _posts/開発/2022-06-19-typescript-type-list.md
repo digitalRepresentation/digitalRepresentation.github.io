@@ -7,7 +7,7 @@ tags: [developer]
 ---
 # typescriptのtypeとは
 <img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov" alt="タイプスクリプトのタイプ"  width="700" >
-typescriptのタイプは12個あります。  
+typescriptの型は12個あります。  
 typeを名義する際は必ず小文字で入力します。
 1. String  
 2. Number  
@@ -22,27 +22,27 @@ typeを名義する際は必ず小文字で入力します。
 11. Undefined
 12. Never
 
-## typescriptのタイプ「String」
-typescriptのstringの書き方です。
+## typescriptのタイプ「String型」
+typescriptのstring型の書き方です。
 ```typescript
 const strVariable: string = "hello";
 ```
 :を利用してjavascriptのコードにtypeを定義する方式をオブジェクトの型注釈(Type Annotation)と言います。  
 
-## typescriptのタイプ「Number」
-typescriptのnumberの書き方です。  
+## typescriptのタイプ「Number型」
+typescriptのnumber型の書き方です。  
 ```typescript
 const numVariable: number = 10;
 ```
 
-## typescriptのタイプ「Boolean」
-typescriptのbooleanの書き方です。  
+## typescriptのタイプ「Boolean型」
+typescriptのboolean型の書き方です。  
 ```typescript
 const isVariable: boolean = false;
 ```
 
-## typescriptのタイプ「Object」
-typescriptのobjectの書き方です。  
+## typescriptのタイプ「Object型」
+typescriptのobject型の書き方です。  
 ```typescript
 const apple: object = {
 	price: number = 200,
@@ -50,17 +50,17 @@ const apple: object = {
 }
 ```
 
-## typescriptのタイプ「Array」
-typescriptのarrayの書き方です。  
+## typescriptのタイプ「Array型」
+typescriptのarray型の書き方です。  
 ```typescript
 const arrCount: number[] = [1, 2, 3];
 const arrCount2: Array<number> = [1, 2, 3];
 ```
 
-## typescriptのタイプ「Tuple」
+## typescriptのタイプ「Tuple型」
 配列の長さが固定で、各々の要素のタイプが指定されている配列形式です。  
 
-typescriptのtupleの書き方です。  
+typescriptのtuple型の書き方です。  
 ```typescript
 const arrEmployee = [string, number] = ["Watanabe", 3];
 ```
@@ -87,9 +87,9 @@ person.role = [3, 'hidden']; // ok
 person.role = [0, 'admin', 'user']; // error
 ```
 
-## typescriptのタイプ「Enum」
+## typescriptのタイプ「Enum型」
 Enumは定数の集まりです。javascriptではない機能です。  
-typescriptのarrayの書き方です。  
+typescriptのenum型の書き方です。  
 ```typescript
 enum Auth { Guest, Leader, Admin }
 const kim: Auth = Auth.Admin; // 2
@@ -116,7 +116,7 @@ Role.READ_ONLY; // 6
 Role.AUTHOR // 7
 ```
 
-## typescriptのタイプ「Any」
+## typescriptのタイプ「Any型」
 単語のそのものの意味で、全てのタイプについて許可します。  
 ```typescript
 const str: any = 'hello!';
@@ -133,10 +133,10 @@ any属性、any変数がどんなタイプも保存しないのでコンパイ�
 他の場合はanyを使わない方が良いです。  
 作業するときに使うタイプをばっちりとまとめて欲しいです。  
 
-## typescriptのタイプ「Void」
+## typescriptのタイプ「Void型」
 変数はundefined, nullだけ割り当てて、関数は返却する値を設定できないタイプです。  
 「void」を使えずにinterface engineに任せるのも良いです。  
-typescriptのvoidの書き方です。
+typescriptのvoid型の書き方です。
 ```typescript
 count unuseful: void = undefined;
 function notuse(): void {
@@ -144,9 +144,9 @@ function notuse(): void {
 }
 ```
 
-## typescriptのタイプ「Never」
+## typescriptのタイプ「Never型」
 関数の終わりに到達しないと言う意味を持っているタイプです。  
-typescriptのNeverの書き方です。
+typescriptのNever型の書き方です。
 ```typescript
 function neverEnd(): never {
 	while (true) {
