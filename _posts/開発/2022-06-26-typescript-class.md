@@ -5,7 +5,7 @@ slug: typescript-class-使い方-アクセスアクセス修飾子-public-privat
 comments: true
 tags: [developer]
 ---
-# Union typeとintersection type
+# Typescriptのclassの使い方とアクセスアクセス修飾子(public/private/protected)について解説
 <img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov" alt="typescript class"  width="500" >
 
 

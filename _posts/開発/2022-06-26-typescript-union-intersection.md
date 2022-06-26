@@ -5,7 +5,7 @@ slug: typescript-union-intersection
 comments: true
 tags: [developer]
 ---
-# Union typeとintersection type
+# TypescriptのUnion typeとintersection typeの解説
 <img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov" alt="typescript union type intersection type"  width="500" >
 
 
