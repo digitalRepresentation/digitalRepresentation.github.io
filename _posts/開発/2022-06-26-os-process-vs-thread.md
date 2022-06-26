@@ -6,7 +6,7 @@ comments: true
 tags: [developer]
 ---
 # [os]processとthreadの違い
-<img src="https://drive.google.com/uc?export=view&id=1Q4prhk1hbS4lVqR7cE5qjrgcIFjqE-eb" alt="プロセスとスレッドの違い"  width="500" >
+<img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov" alt="プロセスとスレッドの違い"  width="500" >
 プロセスとスレッドは独立的なものです。  
 
 ## プロセスとは
