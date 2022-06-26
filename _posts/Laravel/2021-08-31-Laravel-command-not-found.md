@@ -3,7 +3,7 @@ layout: post
 title: "bash: laravel: command not foundエラーについて"
 slug: laravel-command-not-found
 comments: true
-tags: [developer, Laravel]
+tags: [developer]
 ---
 # bash: laravel: command not foundのエラーが発生する場合    
 
