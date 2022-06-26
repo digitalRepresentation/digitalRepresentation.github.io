@@ -3,7 +3,7 @@ layout: post
 title: "軽井沢の白糸の滝"
 slug: karuizawa-shiraito-falls
 comments: true
-tags: [travel]
+tags: [japan-life]
 ---
 
 <img src="https://drive.google.com/uc?export=view&id=1e53mOTrB5jJNP5F51hLA-ySE4kxBoCOE"  width="370" alt="白糸の滝を楽しめる">

@@ -3,7 +3,7 @@ layout: post
 title: "[茨城県]キリンビール取手工場"
 slug: ibaraki-kirin-beer
 comments: true
-tags: [travel]
+tags: [japan-life]
 ---
 
 <img src="https://drive.google.com/uc?export=view&id=1o8o-3djlrVHJ9Bqh1N3y_mnTBiRpLDZm"  width="700">
