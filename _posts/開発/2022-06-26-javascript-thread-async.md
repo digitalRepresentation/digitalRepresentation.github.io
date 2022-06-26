@@ -5,7 +5,7 @@ slug: javascript-シングルスレッド-非同期になる-理由-解説
 comments: true
 tags: [developer]
 ---
-# javascriptはシングルスレッドです。
+# javascriptのシングルスレッドなのに非同期になる理由を解説します。
 <img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL" alt="javascript スレッド" width="700">
 シングルスレッドとは一つのプログラムで一つのコードを実行されると言う意味です。  
 javascriptはシングルスレッド言語です。  
