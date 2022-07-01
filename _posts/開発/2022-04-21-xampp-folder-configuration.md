@@ -2,7 +2,7 @@
 layout: post
 title: "xamppのソースコードファイルの場所は"
 slug: xampp-htdocs
-comments: true
+comments: false
 tags: [developer]
 ---
 xamppのソースコードファイルの場所は  

@@ -2,7 +2,7 @@
 layout: post
 title: "[javascript]innerHTMLでHTMLコードを追加してみよう"
 slug: javascript-innerhtml
-comments: true
+comments: false
 tags: [developer]
 ---
 <img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL"  width="700">

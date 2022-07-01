@@ -2,7 +2,7 @@
 layout: post
 title: "phpメンバ変数に「$_SERVER」が叩かない場合は"
 slug: php-class-variable-server
-comments: true
+comments: false
 tags: [developer]
 ---
 phpメンバ変数に「$_SERVER」が叩かない場合は  

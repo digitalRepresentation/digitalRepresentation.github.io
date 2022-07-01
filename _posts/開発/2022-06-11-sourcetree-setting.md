@@ -2,7 +2,7 @@
 layout: post
 title: "sourcetreeアカウント作成"
 slug: sourcetree-アカウント-作成
-comments: true
+comments: false
 tags: [developer]
 ---
 # ソースツリーアカウント追加

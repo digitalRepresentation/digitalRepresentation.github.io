@@ -2,7 +2,7 @@
 layout: post
 title: "[typescript]Genericの解説"
 slug: typescript-generic
-comments: true
+comments: false
 tags: [developer]
 ---
 # typescriptのジェネリック(generic)

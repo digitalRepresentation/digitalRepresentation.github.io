@@ -2,7 +2,7 @@
 layout: post
 title: "「www.youtube.comで接続が拒否されました。」のエラー対策"
 slug: youtube-iframe-error
-comments: true
+comments: false
 tags: [developer]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "用語 'tsc' は、コマンドレット、関数、スクリプト ファイル、または操作可能なプログラムの名前として認識されません。"
 slug: typescript-tsc-error
-comments: true
+comments: false
 tags: [developer]
 ---
 <img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov"  width="700" alt="typescript">

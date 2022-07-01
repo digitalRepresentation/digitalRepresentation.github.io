@@ -2,7 +2,7 @@
 layout: post
 title: "githubのtoken生成する方法"
 slug: github-token-生成
-comments: true
+comments: false
 tags: [developer]
 ---
 # githubトークン生成

@@ -2,7 +2,7 @@
 layout: post
 title: "スマホが水に濡れた後に音とマイクができない簡単に場合解決方法"
 slug: 水が-入って-携帯電話の音-マイクが-できない場合-解決方法
-comments: true
+comments: false
 tags: [japan-life]
 ---
 <img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov" alt="携帯電話のマイクや音ができない場合"  width="700" >

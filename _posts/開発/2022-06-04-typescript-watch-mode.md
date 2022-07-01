@@ -2,7 +2,7 @@
 layout: post
 title: "[typescript]watchモード"
 slug: typescript-watch-mode
-comments: true
+comments: false
 tags: [developer]
 ---
 <img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov"  width="700" alt="typescript">

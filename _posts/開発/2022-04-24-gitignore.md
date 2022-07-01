@@ -2,7 +2,7 @@
 layout: post
 title: "gitで大事なファイルを隠したいときは"
 slug: gitignore-mean
-comments: true
+comments: false
 tags: [developer]
 ---
 gitで大事なファイルを隠したいときは  

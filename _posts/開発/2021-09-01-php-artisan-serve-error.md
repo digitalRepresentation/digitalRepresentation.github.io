@@ -2,7 +2,7 @@
 layout: post
 title: "php-artisan-serve-errorエラーについて"
 slug: php-artisan-serve-error
-comments: true
+comments: false
 tags: [developer]
 ---
 # laravelでphp artisan serveを入力した際に下記のエラーが発生する場合    

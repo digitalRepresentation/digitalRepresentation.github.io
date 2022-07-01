@@ -94,7 +94,7 @@ google_analytics:      G-T1ECNW0CDE
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                jinyoung-kim
+# disqus:                jinyoung-kim
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>

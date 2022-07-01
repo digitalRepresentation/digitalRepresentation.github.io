@@ -2,7 +2,7 @@
 layout: post
 title: "typescriptとは"
 slug: typescript-so-much
-comments: true
+comments: false
 tags: [developer]
 ---
 <img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov" alt="typescriptとは" width="700">

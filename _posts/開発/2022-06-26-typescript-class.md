@@ -2,7 +2,7 @@
 layout: post
 title: "[typescript]classの使い方とアクセスアクセス修飾子(public/private/protected)について解説"
 slug: typescript-class-使い方-アクセスアクセス修飾子-public-private-protected-について解説
-comments: true
+comments: false
 tags: [developer]
 ---
 # Typescriptのclassの使い方とアクセスアクセス修飾子(public/private/protected)について解説

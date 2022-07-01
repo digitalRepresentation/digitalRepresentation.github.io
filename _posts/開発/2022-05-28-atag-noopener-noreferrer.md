@@ -2,7 +2,7 @@
 layout: post
 title: "atagの_blankセキュリティと、性能問題について"
 slug: atag-noopener-noreferrer
-comments: true
+comments: false
 tags: [developer]
 ---
 <img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL"  width="700">

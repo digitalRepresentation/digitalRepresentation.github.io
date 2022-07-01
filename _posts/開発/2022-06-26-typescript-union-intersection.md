@@ -2,7 +2,7 @@
 layout: post
 title: "[typescript]Union typeとintersection typeの解説"
 slug: typescript-union-intersection
-comments: true
+comments: false
 tags: [developer]
 ---
 # TypescriptのUnion typeとintersection typeの解説

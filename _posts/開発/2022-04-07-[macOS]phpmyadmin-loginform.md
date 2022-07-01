@@ -2,7 +2,7 @@
 layout: post
 title: "MACOS環境にphpmyadminのloginformが出ない場合、解決方法"
 slug: phpmyadmin-loginform
-comments: true
+comments: false
 tags: [developer]
 ---
   

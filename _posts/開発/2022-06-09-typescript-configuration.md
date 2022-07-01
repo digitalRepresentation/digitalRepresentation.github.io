@@ -2,7 +2,7 @@
 layout: post
 title: "typescript環境構築をする方法"
 slug: typescript-環境構築をする-方法
-comments: true
+comments: false
 tags: [developer]
 ---
 <img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL" alt="typescriptの環境構築"  width="700" height="370">

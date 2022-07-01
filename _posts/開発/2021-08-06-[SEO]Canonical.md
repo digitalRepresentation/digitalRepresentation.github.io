@@ -2,7 +2,7 @@
 layout: post
 title: "Canonicalタグとは"
 slug: Canoicalとは
-comments: true
+comments: false
 tags: [developer]
 ---
   

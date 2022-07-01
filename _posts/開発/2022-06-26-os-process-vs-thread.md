@@ -2,7 +2,7 @@
 layout: post
 title: "[os]processとthreadの違い"
 slug: os-process-vs-thread
-comments: true
+comments: false
 tags: [developer]
 ---
 # [os]processとthreadの違い

@@ -2,7 +2,7 @@
 layout: post
 title: "typescriptのtypeとは"
 slug: typescript-typeとは
-comments: true
+comments: false
 tags: [developer]
 ---
 # typescriptのtypeとは

@@ -2,7 +2,7 @@
 layout: post
 title: "javascriptのシングルスレッドなのに非同期になる理由を解説します。"
 slug: javascript-シングルスレッド-非同期になる-理由-解説
-comments: true
+comments: false
 tags: [developer]
 ---
 # javascriptのシングルスレッドなのに非同期になる理由を解説します。

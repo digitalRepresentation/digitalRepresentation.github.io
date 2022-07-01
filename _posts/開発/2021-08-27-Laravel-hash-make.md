@@ -2,7 +2,7 @@
 layout: post
 title: "Laravel hash::makeを使用してみた。"
 slug: Laravel-hash-make
-comments: true
+comments: false
 tags: [developer]
 ---
 # laravelでパスワードを暗号化して      
