@@ -29,6 +29,7 @@ layout: base
     <h1 class="page-title">{{ page.title | default:strings.home | default:"Home" }}</h1>
     {% include message.html text=page.description hide=page.hide_description %}
     {% comment %} google AdSense {% endcomment %}
+    {% include analytics.html %}
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
      crossorigin="anonymous"></script>
   </header>
