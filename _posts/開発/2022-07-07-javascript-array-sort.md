@@ -6,7 +6,7 @@ comments: false
 tags: [developer]
 ---
 # javascriptのsortを使う時に数字がうまく昇順と高順にならない場合の対策を紹介します。
-<img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL" alt="javascriptのsort数字やり方" width="700">
+<img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL" alt="javascriptのsort数字やり方" width="300">
 javascriptのsortメソッドは配列の要素を整列します。原本の配列を直で変更します。
 sortメソッドは基本的には昇順に要素を整列します。  
 sortの反対メソッドはreverse()です。
