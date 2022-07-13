@@ -44,5 +44,3 @@ tags: [japan-life]
 <img src="https://drive.google.com/uc?export=view&id=1kWJ1zkp2RiL_5rFRkGIsXDko4T700Dyi" alt="甲羅本店の響コース６"  width="500" >
 <img src="https://drive.google.com/uc?export=view&id=1uQyqlAS-nCO-zNgt3aC70gaxjVjq2Ij1" alt="甲羅本店の響コース７"  width="500" >
 <img src="https://drive.google.com/uc?export=view&id=1j8M0XwMa2LsNFja5Foow5d7hat3AEcKM" alt="甲羅本店の響コース９"  width="500" >
-
-https://drive.google.com/file/d//view?usp=sharing
