@@ -38,4 +38,4 @@ URIはURLの内容も含まれています。なのでURIの範囲の内にURL�
 下記の画像をご覧ください。  
 Query Stringが入っていたらURIで、Query StringがなくてPathまである場合はURLだと認識すれば問題ないです。  
 
-<img src="https://drive.google.com/uc?export=view&id=1xXgMJNUvBlYQ0dXCiSoj82Wtshp0wZfN" alt="uriとurlの違い2"  width="300" >
+<img src="https://drive.google.com/uc?export=view&id=1xXgMJNUvBlYQ0dXCiSoj82Wtshp0wZfN" alt="uriとurlの違い2">
