@@ -3,7 +3,7 @@ layout: post
 title: "javascriptのシングルスレッドなのに非同期になる理由を解説します。"
 slug: javascript-シングルスレッド-非同期になる-理由-解説
 comments: false
-tags: [developer]
+tags: [javascript, developer]
 ---
 # javascriptのシングルスレッドなのに非同期になる理由を解説します。
 <img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL" alt="javascript スレッド" width="700">

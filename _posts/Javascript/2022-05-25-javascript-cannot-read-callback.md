@@ -3,7 +3,7 @@ layout: post
 title: "Cannot read properties of null (reading 'addEventListener')のエラー対応"
 slug: javascript-cannot-read-callback
 comments: false
-tags: [developer]
+tags: [javascript, developer]
 ---
 <img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL"  width="700">
 Cannot read properties of null (reading 'addEventListener')のエラー対応    

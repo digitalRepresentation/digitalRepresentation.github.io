@@ -3,7 +3,7 @@ layout: post
 title: "javascriptやcssの外部ファイルが更新されない時に対処方法"
 slug: javascript-css-outsider-file-modify
 comments: false
-tags: [developer]
+tags: [javascript, developer]
 ---
 <img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL"  width="700">
 javascriptやcssの外部ファイルが更新されない時に対処方法    

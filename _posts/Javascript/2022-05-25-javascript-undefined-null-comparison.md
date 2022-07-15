@@ -3,7 +3,7 @@ layout: post
 title: "値を比較する時にundefinedとnullどちらが良いのか"
 slug: javascript-undefined-null-comparison
 comments: false
-tags: [developer]
+tags: [javascript, developer]
 ---
 <img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL"  width="700">
 値を比較する時にundefinedとnullどちらが良いのか    

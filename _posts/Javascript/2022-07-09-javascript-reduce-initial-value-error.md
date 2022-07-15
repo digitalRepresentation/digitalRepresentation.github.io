@@ -3,7 +3,7 @@ layout: post
 title: "Javascriptの「Reduce of empty array with no initial value」エラー解決方法"
 slug: javascript-reduce-initial-value-error
 comments: false
-tags: [developer]
+tags: [javascript, developer]
 ---
 ## Javascriptの「Reduce of empty array with no initial value」エラー対応方法
 <img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL" alt="Reduce of empty array with no initial value解決" width="300">

@@ -3,7 +3,7 @@ layout: post
 title: "javascriptのsortを使う時に数字がうまく昇順と高順にならない場合の対策を紹介します。"
 slug: javascript-array-sort
 comments: false
-tags: [developer]
+tags: [javascript, developer]
 ---
 # javascriptのsortを使う時に数字がうまく昇順と高順にならない場合の対策を紹介します。
 <img src="https://drive.google.com/uc?export=view&id=1u7BSBIt1dMa6djlVbF-VmF72fTZ1X3TL" alt="javascriptのsort数字やり方" width="300">
