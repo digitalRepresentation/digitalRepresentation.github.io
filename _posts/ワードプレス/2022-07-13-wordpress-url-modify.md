@@ -3,7 +3,7 @@ layout: post
 title: "wordpressのurl変更する方法"
 slug: wordpress-url-modify
 comments: false
-tags: [developer]
+tags: [wordpress, developer]
 ---
 ## Wordpressのurl変更する方法を一分で紹介します。
 <img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov" alt="wordpressのurl変更"  width="300" >

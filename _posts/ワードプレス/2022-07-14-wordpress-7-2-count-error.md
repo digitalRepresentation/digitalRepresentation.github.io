@@ -3,7 +3,7 @@ layout: post
 title: "Parameter must be an array or an object that implements Countable in"
 slug: wordpress-7-2-count-error
 comments: false
-tags: [developer]
+tags: [wordpress, developer]
 ---
 ## Parameter must be an array or an object that implements Countable in <b>wp/wp-includes/post-template.php</b> on line <b>284</b><br />のエラーの解説 Wordpress
 <img src="https://drive.google.com/uc?export=view&id=1v1g06Mvx-zclnrCYaiONnnaPSZV-wswx" alt="wordpressのエラー"  width="500" >

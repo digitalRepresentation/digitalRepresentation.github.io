@@ -3,7 +3,7 @@ layout: post
 title: "wordpressのテーマ変更名する方法"
 slug: wordpress-thema-modify
 comments: false
-tags: [developer]
+tags: [wordpress, developer]
 ---
 ## wordpressのテーマ名を変更する方法【1分でわかる】
 <img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov" alt="wordpressのurl変更"  width="300" >
