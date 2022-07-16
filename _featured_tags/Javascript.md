@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Javascript
-slug: Javascript
+slug: javascript
 menu: true
 order: 2
 description: >
