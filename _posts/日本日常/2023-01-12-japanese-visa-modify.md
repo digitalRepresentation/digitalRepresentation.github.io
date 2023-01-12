@@ -15,9 +15,9 @@ tags: [japan-life]
 ## ビザ更新時の必要な書類
 ビザの種類によって準備する書類が違います。  
 下記のURIで本人のビザを探してください。  
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c44fc8d1-3470-4e63-ac44-12531ced7f46/Untitled.png)  
+<img src="https://drive.google.com/uc?export=view&id=1T8LUZMNNcieDxfSh7_8t_fzgivw--Lh7" alt="日本でビザ更新する方法転職時も含め" width="1000">
 入りましたら下にスクロールすると「在留期間更新許可申請」がありますので選択してください。  
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91781c58-331a-47e0-8e19-476c0de4338a/Untitled.png)  
+<img src="https://drive.google.com/uc?export=view&id=1j3DeNXUHXIcPs3GjWKbfoHkJbVOEIm9G" alt="日本でビザ更新する方法転職時も含め" width="1000"> 
 会社の規模によって提出する資料が違います。  
 私はカテゴリ2でIT就職しましたので、転職時の初めては下記の書類が必要になります。  
     
