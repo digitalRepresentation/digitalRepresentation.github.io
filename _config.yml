@@ -32,8 +32,8 @@ description:           >
 # A shorter description for the sidebar.
 tagline:               |
   プログラミング：typescript、React.js、php、cs知識、DB情報共有。
-  その他：日本の生活で感じたこと等の情報。
-  ブログ2022年度も頑張って投稿しております。
+  プログラミングも大事ですが、活用して事業にも効果よく導入できる人になりたいです。  
+  今年もよろしくお願いいたします。
 
 # A list of keywords for your blog
 keywords:              [IT, 韓国, reactjs, php, typescript, javascript]
@@ -50,7 +50,7 @@ author:
 # twitter:             jin03192@naver.com
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             キム・ジニョン © 2021~2022. All rights reserved.
+copyright:             キム・ジニョン © 2021~2023. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
