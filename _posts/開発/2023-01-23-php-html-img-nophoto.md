@@ -45,6 +45,7 @@ if分岐でfile_existsというphpのファイル存在を確認してimgタグ�
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 ##　imgファイルがない場合別のファイルに変更する方法-htmlのonErrorを利用する。
 imgの属性でonErrorがあります。  
 imgのファイルがない時にonErrorを通してjsが実行されますので、ソースコードを書く時に綺麗に作成するのができます。  
@@ -53,17 +54,14 @@ imgのファイルがない時にonErrorを通してjsが実行されますの�
 ```html
 <img src="/img/dev/one.jpg" onerror="this.src='/img/dev/noPhoto.jpg';">
 ```
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
-     crossorigin="anonymous"></script>
+
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
      data-ad-client="ca-pub-7886659064712565"
-     data-ad-slot="1101493367"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+     data-ad-slot="9215238368"></ins>
+
 ## htmlを動的に変えるのはSPAが良い。
 Single Page ApplicationというSPAを使うと、  
 作業コストもそんなにかからないし、速度も速いです。  
