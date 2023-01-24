@@ -11,7 +11,7 @@ tags: [japan-life]
 ビザ更新は基本的に有効期限の3か月前に申請が可能です。  
 ビザ更新は出入国管理局に可能ですが、出張所がありますので下記のURIを参考にして調べてみてください。  
 [東京出入国在留管理局](https://www.moj.go.jp/isa/about/region/tokyo/index.html)  
-<aside>
+<aside markdown=1>
 
 ## ビザ更新時の必要な書類
 ビザの種類によって準備する書類が違います。  
@@ -39,7 +39,7 @@ tags: [japan-life]
 </aside>
   
 
-<aside>
+<aside markdown=2>
 
 ## 転職時のビザ更新は提出する書類も追加になります。
 東京出入国在留管理局の外国人在留総合インフォメーションセンター電話番号  
