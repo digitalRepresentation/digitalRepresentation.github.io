@@ -13,6 +13,19 @@ typescriptはjavascriptの<span style="color=red;">SuperSetです。
 typescriptは新しく作った言語ではなく、javascriptの言語を使用し、新しい機能とメリットを追加する言語で、  
 javascriptコードをより簡単に強く作成できるように提供されています。  
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## typescriptのメリット
 typescriptのコンパイラーはエンジニアにより簡潔な構文と作業をより簡単にできるようにする解決方法を提供します。  
 typescriptを使えば複雑なjavascriptをよりかっこいいコードにコンパイルできるようにします。  
@@ -33,6 +46,19 @@ javascriptが実行できる環境ではtypescriptがサポートしません。
 javascriptコードを作成するのではなく、新しい機能とメリットを全て備えているtypescriptコードを得られます。  
 新しい機能をjavascript解決策でコンパイルするのがtypescriptのコンパイルです。  
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## typescriptを使う理由
 プログラマが予想してないエラーが発生するからです。  
 下記の内容をみるとプラスする関数があります。  

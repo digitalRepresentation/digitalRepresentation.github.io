@@ -15,6 +15,19 @@ tags: [developer]
 4. データベースの学習をする (mySQL)  
 5. GA, Salesforceになれる  
   
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 1番のみ達成しました。  
 typescriptの勉強は繰り返してみていますが、やってなかった言語なので難しかったし、  
 typescriptの文法を理解するのがかなり時間がかかっていました。  
@@ -39,6 +52,19 @@ AWSの構築もDB連携してするのはできるようになりました。
      → 2022年度はブログ記事を40個ぐらいしましたが、引き続き勉強した内容もメモしてなかったので今後はよくよく作成していきたいです。　　
 3. 会社の業務の知識をあまりにも身につけてなかったです。 会社の業務の内容を教えていただき、勉強になりましたが、全然復習してなくてまた聞く時に勉強になりませんでした。  
      → 教えていただいた内容は業務（ネットで公開されている）のはメモして復習することと、業務の内容も事前に勉強していきたいです。  
+  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
   
 ## 2023年度今年の目標設定につきまして
 今年の目標は下記になります。  

@@ -18,7 +18,20 @@ typescriptの環境構築の手順をご説明いたします。
 6. package.jsonファイルに入ってlite-serverを記載します。  
 7. npm startを叩きます。  
 8. tsc --initを入力するとtsconfig.jsonファイルができます。  
-
+  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## npmを使用するため、node.jsをinstallします。
 typescriptを使うためにはnpmが必要です。  
 node.jsをダウンロードするとnpmが入っているので、node.jsをダウンロードしてください。  

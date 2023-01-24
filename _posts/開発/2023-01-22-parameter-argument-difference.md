@@ -10,7 +10,19 @@ tags: [developer]
 業務でプログラミングを使用する場合は開発用語について理解して使わなければなりません。  
 開発者ってプログラミングができるということよりもコミュニケーションの用語が大事です。  
 なので、今回はパラメーターとアーギュメントの違いについて簡単に説明をします。  
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## parameterとは
 プログラミング上のparameter(パラメーター)は制限した関数の中にある仮引数を意味します。  
 ```javascript

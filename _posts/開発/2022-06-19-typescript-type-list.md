@@ -22,6 +22,19 @@ typeを名義する際は必ず小文字で入力します。
 11. Undefined
 12. Never
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## typescriptのタイプ「String型」
 typescriptのstring型の書き方です。
 ```typescript
@@ -41,6 +54,19 @@ typescriptのboolean型の書き方です。
 const isVariable: boolean = false;
 ```
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## typescriptのタイプ「Object型」
 typescriptのobject型の書き方です。  
 ```typescript
@@ -73,6 +99,19 @@ arrEmployee[5] = "Hello;" // Error, Property '5' does not exist on type '[string
 ```
 
 tupleのタイプはpushは例外的にtupeで許可されるので、タイプスクリプトでこう言うエラーを見つけないですが、少なくとも正しくない値を入れません。  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ```typescript
 const person = {
 	role: [number, string];
@@ -123,7 +162,19 @@ const str: any = 'hello!';
 const num: any = 23;
 const arr: any = ['a', 2, true];
 ```
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ### typescript Anyタイプのデメリット
 anyは全てのタイプを許可するので良いタイプだと思いますが、大きいデメリットのせいで、  
 なるべくanyを使わない方が良いです。  

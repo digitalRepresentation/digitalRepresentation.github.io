@@ -19,8 +19,20 @@ tags: [developer]
 作られたプロセスを子供プロセス、メインプロセスを親プロセスと言います。  
 各々のプロセスは独立されたメモリにあって、お互いに共有できません。  
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## プロセスの仕組み
-
 <img src="https://drive.google.com/uc?export=view&id=1wEPsdM5eyN8zOJr5JzefQHSU67UGPM3c" alt="プロセスの仕組み"  width="700" >
 
 stack area: 呼び出された関数が終了すると戻される住所をstackに保存したり、変数使用範囲に影響を与えるエリアを実装する時に使用します。  
@@ -33,7 +45,19 @@ text area: プログラマが作成したプログラムがあるエリアです
 スレッドは一つのプロセスの中で動作される色々実行の流れみたいなものです。  
 プロセスは一つ以上のスレッドをもっつのが可能です。  
 同じプロセスの中にある全てのスレッドは同じHeap areaを共有します。  
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## プロセスとスレッドの違い
 1. プロセスは独立的で他のプロセスに含まれていない反面、全てのスレッドはプロセスの内に共有ができます。  
 2. プロセスはメモリおよび他のresourceを含まれるので個別的に存在できますが、スレッドは個別的に存在できません。  

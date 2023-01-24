@@ -10,25 +10,50 @@ tags: [network]
 ## インターネットプロトコルとは【わかりやすく説明】
 Internet ProtocolのProtocolは「データ通信」という言葉ですが、「外交」にも翻訳できます。  
 つまり、インターネット上でお互いに約束した規則をもとに「外交」をする行為を言います。  
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ### インターネットプロトコルの役割
 指定したIP住所(IP Address)にデータを送ります。  
 パケット(Packet)という通信単位にてデータを送ります。  
 
 ## メッセージをただ送るのではなく、IP Packetの規則の通りに送ります。  
 
-クライアントパケット
-出発 1.1.1.1
-到着（目的） 2.2.2.2
-内容　Hello World
-
-↓ (ノードを通して送ります。)
-
-サーバパケット
-出発 2.2.2.2
-到着（目的） 1.1.1.1
-OK
-
+クライアントパケット  
+出発 1.1.1.1  
+到着（目的） 2.2.2.2  
+内容　Hello World  
+    
+↓ (ノードを通して送ります。)  
+  
+サーバパケット  
+出発 2.2.2.2  
+到着（目的） 1.1.1.1  
+OK  
+  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## インターネットプロトコルの限界
 ### コネクションレス
 パケットをもらう対象がないまたはサービスができない状態でもパケットを送ります。　 

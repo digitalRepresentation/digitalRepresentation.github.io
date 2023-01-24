@@ -12,13 +12,25 @@ jekyllのブログがSearch Consoleのsitemapsが認識できない場合
 その時にgoogle search consoleツールを利用して新しい投稿されたのをURL検索してindexを作ります。  
 そうすると、googleに素早に検索内容として表示されます。  
 大量の投稿を管理するサイトはすごく面倒なのでsitemap.xmlを作っておくと、  
-自動にindex作業を行います。　　
-
+自動にindex作業を行います。  
+  
 ## jekyllのブログがSearch Consoleのsitemapsが認識できない場合は
 jekyllのブログでsitemap.xmlが基本的にありますが、  
 google search consoleに登録したのに  
-僕の場合は1年近い認識をしていませんでした。　　
-
+僕の場合は1年近い認識をしていませんでした。  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ```xml
 ---
 ---

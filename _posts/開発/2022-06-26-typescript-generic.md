@@ -31,7 +31,20 @@ function unionTypeFunc(parameter: string | number) {
   printText(false); // false
 }
 ```
-
+  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 `any`型でした場合は`type checker`をしないので今後runtime errorになる問題が高いです。  
 しかし、ジェネリック(generic)を利用すれば`type checker`だけではなくアーギュメントに合わせてreturn値も設定が可能です。  
 ※ジェネリックの`T`は`Type`を意味します。二つのジェネリックを書く場合は`T`と`U`を使うのが一般的です。  

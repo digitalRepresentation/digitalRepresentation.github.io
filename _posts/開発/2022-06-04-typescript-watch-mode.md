@@ -18,6 +18,19 @@ tsc app.ts --w
 デメリットは一つのファイルで使うときだけなので、具体的にファイル名を指定しないといけないです。  
 いまは一つのファイルでやっていますが、規模が多いプロジェクトは使いません。  
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## typescriptファイルが複数の場合どうやって自動でコンパイルするのか。
 複数以上のファイルの変更内容がある場合はファイルごとにコンパイルするので手間がかかります。  
 watchモードに入ってtscを入力するやり方にすると小パイルが簡単にいけますでしょう。  

@@ -13,6 +13,19 @@ Parameter must be an array or an object that implements Countable in <b>wp/wp-in
 `get_the_excerpt()`を使うと上記のエラーになるので困ってはありませんか。  
 
 wpフォルダのwp-includesのpost-template.phpの284行目を下記のように変更してください！  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ```php
 if ( is_array($pages) ) {
     if ( $page > count( $pages ) ) // if the requested page doesn't exist

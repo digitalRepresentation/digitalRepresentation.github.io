@@ -24,6 +24,19 @@ windowsの場合はc:\xamppにあります。
 macOSの場合はapplication\xamppにあります。  
 この下の方のhtdocsに置いておけばいけない可能性があります。  
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 <img src="https://drive.google.com/uc?export=view&id=14ohaOZbcahHMd2GTXXKzDESJkqOmauv3"  width="700">
 
 画像はmacOSの環境です。  

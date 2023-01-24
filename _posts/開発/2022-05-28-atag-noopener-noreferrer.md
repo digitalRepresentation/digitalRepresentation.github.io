@@ -23,7 +23,20 @@ windows.openerが変わってしまって、本当のサイトにatagのwindow.o
 ## Tabnabbing attackをどうやって防ぐのか。
 二つの解決方法があります。  
 rel属性にnoopener, noreferrerをどちらをつけたら問題解決です。
-
+  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## noopenerのメリットは？
 noopenerはwindows.openerが使えなくなります。  
 それでTabnabbing attackを防ぐのが可能です。  
@@ -32,7 +45,20 @@ SEOとしても問題ないです。
 移転先のjsが多くても本サイトの速度は遅くなりません。  
 IEは対応してないので、6月15日ごろにIEが終了するので使えれば良いと思います。  
 Chrome, Safari, Firefoxなどは自動でnoopenerがつけるので大丈夫です。  
-
+  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## noreferrerのメリットは？
 noreferrerはヘッダーのrefer情報をなくします。  
 性能の面はnoopenerと同じなので使っても良いです。  

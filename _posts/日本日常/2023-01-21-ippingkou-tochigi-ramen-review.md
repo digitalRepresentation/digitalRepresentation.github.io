@@ -6,7 +6,7 @@ comments: false
 tags: [japan-life]
 ---
 # 栃木宇都宮の一品香駒生店のレビュー
-<img src="https://drive.google.com/uc?export=view&id=1vCoOBeXN0t3X2AowNc8KSmjj0GKdD9zr" alt="栃木宇都宮の一品香駒生店の看板" width="700">
+<img src="https://drive.google.com/uc?export=view&id=1vCoOBeXN0t3X2AowNc8KSmjj0GKdD9zr" alt="栃木宇都宮の一品香駒生店の看板" width="500">
 栃木宇都宮の有名な人気ラーメンのお店、「一品香駒生店」に行ってきました。  
 営業時間は火曜日がお休みで、  
 午前11:30〜午後2:20、午後5:45〜8:20になります。  
@@ -15,12 +15,38 @@ tags: [japan-life]
 20組以上並んでいました。  
 1時間ぐらいかかってお店に入ることができました。  
   
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## 栃木宇都宮の一品香駒生店のメニュー
 <img src="https://drive.google.com/uc?export=view&id=1Xn96_UYBHLNPrSPmXuLHElhzm0m6vzwI" alt="栃木宇都宮の一品香駒生店の看板" width="700">
 並んでいる時にお店の方から注文をいただきました。  
 ラーメンの種類は一般ラーメンとチャーシューラーメンで、量は普通と大盛り選べます。  
 二人で行ったので普通のラーメン一つと普通のチャーシュー麺一つ、餃子3個を2個頼みました。  
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## 栃木宇都宮の一品香駒生店の食べ物
 <img src="https://drive.google.com/uc?export=view&id=1kpxjw1BkNgcsJ8z_pnVlfWlyXSFVr9ZY" alt="栃木宇都宮の一品香駒生店の食べ物" width="700">
 前にあるものは普通一般ラーメンで、向こうがチャーシューメンです。  

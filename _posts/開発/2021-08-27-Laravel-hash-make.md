@@ -29,6 +29,19 @@ $DBのパスワード値 = DB::table('users')->where('user', $user)->value('pass
 hash::check($入力側Formの値, $DBのパスワード値);
 ```
   
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 「hash::check」というLaravelの関数を利用してパスワードが一致しているのか確認ができます。  
 なので、$入力側Formの値が123456なら$DBのパスワード値は$2y$10$BiK3Shkz2sXfVOuvAQjr0ehZeSqg.P0y.WUk4Lq6WsRBQ4hspccJGみたいな値を持っていて  
 内蔵関数を利用してチェックをする機能です。  

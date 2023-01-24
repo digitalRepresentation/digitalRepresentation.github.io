@@ -19,6 +19,19 @@ function unionTypeFunc(parameter: string | number) {
 parameterにあるdata typeはstringやnumberのみ許可します。  
 このように`|`演算子を利用して複数のタイプを連携する方式をUnion Typeをと言います。  
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## Union Type(literal type)
 一般的なdata type以外も文字列を使用してunion typeを使えます。  
 下記のように小さな単位のタイプの集まりをユニットタイプ（Unit Type）とも呼ばれるりーたらリテラル型です。  
@@ -34,7 +47,19 @@ unionTypeFunc("afreeca"); // Error
 特定の関数に二つ以上のパラメータの値が必要な場合にtypescriptがよくわからない人は`any`を使用しますが、  
 Union Typeを利用すると二つ以上のタイプを持っていくのが可能なので、typescriptの`Type Checker`機能が使えます。  
 data typeを`any`にする場合は`Type Checker`が無効になるのでruntime errorにつながる恐れがあります。  
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## インターセクション型(intersection type)
 インターセクション型（intersection type）は全ての型を満足する一つの型を意味します。  
 `&`演算子はAND演算子みたいな感じでTruckとRobotのプロパティを持っているfutreTruckを使う際に全てのプロパティを全部作成し冪です。  
@@ -57,7 +82,19 @@ let JapanFutreTruck: futureTruck = {
     transformation: "test"
 };
 ```
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## Union typeを使う時に注意するべきな点
 Union typeとintersection typeについての説明をしました。  
 論理的にUnion TypeはOR、intersection typeはANDだと考える人が多いですが、interfaceと同じtypeを扱う時は  
