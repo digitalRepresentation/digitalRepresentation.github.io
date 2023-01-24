@@ -7,18 +7,6 @@ tags: [developer]
 ---
 # htmlファイルでimgファイルがない時に別の画像ファイルにする方法
 <img src="https://drive.google.com/uc?export=view&id=1GDoTF_NzXa5Vfgc-63SX7EoVypdn3Rov" alt="htmlファイルでimgファイルがない時に別の画像ファイルにする方法"  width="300" >
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
-     crossorigin="anonymous"></script>
-<!-- 디스플레이 광고 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7886659064712565"
-     data-ad-slot="1939383573"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 phpでhtmlのimgファイルがない時に代わりに別の画像が出る方法は二つあります。  
 プログラミングってサーバーサイド言語のphpが動いた後、htmlが読み込まれるのを覚えてください。  
 
@@ -33,18 +21,14 @@ if分岐でfile_existsというphpのファイル存在を確認してimgタグ�
 <img src="/img/dev/noPhoto.jpg" />
 <?php endif; ?>
 ```
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
-     crossorigin="anonymous"></script>
-<!-- 디스플레이 광고 -->
-<ins class="adsbygoogle"
-     style="display:block"
+<amp-ad width="100vw" height="320"
+     type="adsense"
      data-ad-client="ca-pub-7886659064712565"
      data-ad-slot="1939383573"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
 
 ##　imgファイルがない場合別のファイルに変更する方法-htmlのonErrorを利用する。
 imgの属性でonErrorがあります。  
@@ -62,7 +46,10 @@ imgのファイルがない時にonErrorを通してjsが実行されますの�
      data-ad-client="ca-pub-7886659064712565"
      data-ad-slot="9215238368"></ins>
 
+
+
 ## htmlを動的に変えるのはSPAが良い。
 Single Page ApplicationというSPAを使うと、  
 作業コストもそんなにかからないし、速度も速いです。  
 SPAだと、javascriptを基にしたVue.js、React.jsを使います。  
+
