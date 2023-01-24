@@ -23,7 +23,19 @@ canonicalとは直訳すると“標準的な”といった意味で、冒頭�
     https://digitalrepresentation.github.io/blog_search?name=nomura
     https://digitalrepresentation.github.io/blog_search?utm_campaign=event
 
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## カノニカル(Canonical)tagを適用しないとどうなるのでしょうか。
 
 ### １。SubのページがMainになってしまいクローリングなる可能性がある。
@@ -52,7 +64,7 @@ htmlのheadタグの中に入ります。
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
+  
 ```html
 <head>
    <link rel="canonical" href="https://digitalrepresentation.github.io/blog_search">

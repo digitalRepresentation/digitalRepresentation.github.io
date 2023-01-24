@@ -34,7 +34,7 @@ if分岐でfile_existsというphpのファイル存在を確認してimgタグ�
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
+  
 ##　imgファイルがない場合別のファイルに変更する方法-htmlのonErrorを利用する。
 imgの属性でonErrorがあります。  
 imgのファイルがない時にonErrorを通してjsが実行されますので、ソースコードを書く時に綺麗に作成するのができます。  
