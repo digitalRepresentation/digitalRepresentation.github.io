@@ -39,14 +39,15 @@ imgのファイルがない時にonErrorを通してjsが実行されますの�
 <img src="/img/dev/one.jpg" onerror="this.src='/img/dev/noPhoto.jpg';">
 ```
 
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
+<amp-ad width="100vw" height="320"
+     type="adsense"
      data-ad-client="ca-pub-7886659064712565"
-     data-ad-slot="9215238368"></ins>
-
-
+     data-ad-slot="9215238368"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+     
 
 ## htmlを動的に変えるのはSPAが良い。
 Single Page ApplicationというSPAを使うと、  
