@@ -40,14 +40,18 @@ canonicalとは直訳すると“標準的な”といった意味で、冒頭�
 下記のようにメインのurlを指定してつけたら大丈夫です。
 htmlのheadタグの中に入ります。
 
-<amp-ad width="100vw" height="320"
-     type="adsense"
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
      data-ad-client="ca-pub-7886659064712565"
      data-ad-slot="1939383573"
-     data-auto-format="rspv"
-     data-full-width="">
-  <div overflow=""></div>
-</amp-ad>
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ```html
 <head>

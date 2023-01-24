@@ -22,14 +22,18 @@ if分岐でfile_existsというphpのファイル存在を確認してimgタグ�
 <?php endif; ?>
 ```
 
-<amp-ad width="100vw" height="320"
-     type="adsense"
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
      data-ad-client="ca-pub-7886659064712565"
      data-ad-slot="1939383573"
-     data-auto-format="rspv"
-     data-full-width="">
-  <div overflow=""></div>
-</amp-ad>
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ##　imgファイルがない場合別のファイルに変更する方法-htmlのonErrorを利用する。
 imgの属性でonErrorがあります。  
