@@ -39,14 +39,6 @@ imgのファイルがない時にonErrorを通してjsが実行されますの�
 <img src="/img/dev/one.jpg" onerror="this.src='/img/dev/noPhoto.jpg';">
 ```
 
-<amp-ad width="100vw" height="320"
-     type="adsense"
-     data-ad-client="ca-pub-7886659064712565"
-     data-ad-slot="9215238368"
-     data-auto-format="rspv"
-     data-full-width="">
-  <div overflow=""></div>
-</amp-ad>
      
 
 ## htmlを動的に変えるのはSPAが良い。
