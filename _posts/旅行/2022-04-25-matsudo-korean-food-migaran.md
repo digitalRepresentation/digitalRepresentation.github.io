@@ -21,6 +21,18 @@ tags: [japan-life]
 僕もそういう味が好きですが、韓国の本番の味を試すためには  
 本当の韓国人がお店に行って判断しないといけないかと思います。  
 それで今回は韓国人が大好きな味をしているお店があったのでおすすめしようと思います。  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## 松戸に新しい韓国料理屋さんができて、食べてみました。（味嘉廊）
 お店の名前は「味嘉廊」です。  
@@ -37,7 +49,18 @@ tags: [japan-life]
 新大久保のお店より美味しい感材でした！  
 最初はおかずも３品無料でくるので楽しかったです〜  
 また今度はサムギョプサルを頼んでみたいです！  
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 ## 松戸韓国料理の味嘉廊のお店をお勧めします！

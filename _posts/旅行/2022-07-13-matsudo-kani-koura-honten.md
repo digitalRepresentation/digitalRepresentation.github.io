@@ -14,6 +14,19 @@ tags: [japan-life]
 甲羅本店の個室を予約する場合は利用料5%がかかりますが、個室ではなくても個室みたいに分かれているので大丈夫です。  
 個室の場合は割と周り人の音が聞こたり、話すと周りに聞こえます。  
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## 甲羅本店の響（ひびき）コース
 響コースの値段は税抜きで12,000円です。  
 甲羅本店の一番高い料理で「タラバガニ」を楽しめるコースです。  
@@ -32,6 +45,19 @@ tags: [japan-life]
 ■　お椀  
 ■　デザート  
 カニは食べやすくなっているのでぜひ食べてみてください！ 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## 甲羅本店の響（ひびき）コースの画像
 響コースの実際画像を共有いたします。  

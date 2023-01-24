@@ -26,6 +26,19 @@ tags: [japan-life]
 なかなか予約取るのが難しいですので、なるべく早めに予約をしないといけないです。  
 窓側席は4人で座れる席で夜景も見えるので良いです。
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## スカイラウンジ＆ダイニング「アーティストカフェ」のディナーコース「フェリーチェ」【窓側席確約】コースレビュー
 <img src="https://drive.google.com/uc?export=view&id=1BJz8auErzpuer0DEIGR9Id594flKKh0f" alt="東京ドームホテルのアーティスト カフェ予約">
 東京ドームホテルのアーティストカフェ予約をしました。  
@@ -55,10 +68,36 @@ tags: [japan-life]
 パンも出ていて食べ補題だったので2回ぐらい頼んで食べました。  
 オリーブオイルがあってそれと一緒に食べました。  
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### アーティストカフェの鱸と夏野菜の三重奏 香草ヴィネグレット 帆立添え
 <img src="https://drive.google.com/uc?export=view&id=1aZGqfeUkrEenYuPa5wvnHX5b9USuiPs3" alt="東京ドームホテルのアーティスト カフェメニュー">
 帆立と魚が出ました。魚は柔らかくて骨もなくて食べやすかったです。  
 帆立は甘くて本当に美味しかったです。  
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### アーティストカフェの黒毛和種和牛サーロイン炭火焼き＆熟成萬幻豚『ドライエイジングポーク』肩ロース炭火焼き  
 <img src="https://drive.google.com/uc?export=view&id=1gcrKBnNeWEjiLrbjZah7YVYxPhr6NcZT" alt="東京ドームホテルのアーティスト カフェメニュー">

@@ -12,6 +12,18 @@ tags: [japan-life]
 大事な電話をする時にスマホに水が漏れてよくできない場合はかなり多いと思います。  
 最近出ているスマホは防水したのがほとんどなので、スピーカーの部分に水が入ったら、  
 電話がよく聞こえなくなります。  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## 超簡単にスマホに水が漏れた場合に解決ができます。
 海外のサイトですが、下記のリンクに入ってボタンを押すと、  

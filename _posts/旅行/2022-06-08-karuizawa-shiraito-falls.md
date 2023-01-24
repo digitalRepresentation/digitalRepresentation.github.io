@@ -14,6 +14,18 @@ tags: [japan-life]
 下記に見える山は「浅間山」です。  
 最近噴火した山で、こちらの山を通りませんが、かなり綺麗です。  
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <img src="https://drive.google.com/uc?export=view&id=1lGbOVPKGwwpZ0bSpnS0qflUJuRsGgOhm"  width="370" alt="浅間山">
 
 ## 白糸の滝を車で行く場合の駐車料
@@ -24,6 +36,18 @@ tags: [japan-life]
 
 
 <img src="https://drive.google.com/uc?export=view&id=14d7fvYPNnOXm1zJvD-v3RHyAe8aKkDi7"  width="370" alt="白糸の滝の土砂崩れ">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## 白糸の滝の土砂崩れ
 原因は不明ですが、白糸の滝に行ったときに土砂崩れで木が崩れていました。  

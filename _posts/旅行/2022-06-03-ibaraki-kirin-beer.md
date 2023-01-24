@@ -13,13 +13,35 @@ tags: [japan-life]
 取手駅に行って歩いて20分ぐらいの距離にあります。  
 キリンビールの見学は500円がかかります。  
 ノーアルコールもあるので、運転してくる時も見学が可能です。  
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <img src="https://drive.google.com/uc?export=view&id=1gwKm1kTm7alEk3QJw0a5Z11A8VgMemHE"  width="700">
 
 ## キリンビールの見学予約方法
 キリンビールのホームページに接続して予約するのが可能です。  
 コロナ宣言するので、30分単位で10人ぐらいしか入れないです。  
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <img src="https://drive.google.com/uc?export=view&id=1J3CdWUq1e2GUGsslLC-UkJ0qqhOuoMV7"  width="700">
 
 ## 見学はどういうルートなのか。
@@ -35,7 +57,18 @@ tags: [japan-life]
 その上で、コロナ制限しているので、いろんな種類のお酒も飲めます。 
 
 <img src="https://drive.google.com/uc?export=view&id=1KVjQwTpyEXzCmg2fy8OEpn2_XeuR4vVW"  width="700" alt="茨城キリンビール工場">
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
   
 ## キリンビールの記念品
 お酒を飲んだ後で、キリンビールの記念品コナーで記念の物の購入も可能です。  
