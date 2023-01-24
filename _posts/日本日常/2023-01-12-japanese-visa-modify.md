@@ -39,7 +39,7 @@ tags: [japan-life]
 </aside>
   
 
-<aside markdown=2>
+<aside markdown=1>
 
 ## 転職時のビザ更新は提出する書類も追加になります。
 東京出入国在留管理局の外国人在留総合インフォメーションセンター電話番号  
