@@ -25,7 +25,7 @@ const Test = () => {
 export default Test;
 ```
     
-<p class="hr">
+<div class="hr"></div>
 
 ##　'useState'を呼び出す
 useStateを呼び出す時はimport Reactに下記の構文を作成すれば解決できます。  
