@@ -21,6 +21,7 @@ if分岐でfile_existsというphpのファイル存在を確認してimgタグ�
 <img src="/img/dev/noPhoto.jpg" />
 <?php endif; ?>
 ```
+
 <amp-ad width="100vw" height="320"
      type="adsense"
      data-ad-client="ca-pub-7886659064712565"
