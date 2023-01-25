@@ -20,7 +20,19 @@ JSXを使う時に上記のエラーを出会ったことありますでしょ�
 
 私が記載した内容にも同じエラーになります。  
 解決はどうやってできますでしょうか。  
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ## JSX フラグメントには対応する終了タグがありません。エラー解決方法
 私の場合はpタグの閉じタグがありませんでした。  
 JSX上に締めタグがない場合はエラーになりますので、  

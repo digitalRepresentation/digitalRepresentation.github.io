@@ -10,8 +10,20 @@ tags: [javascript, developer]
 ESLintは'this' is not allowed before 'super()'というエラーを吐き出す場合があります。  
 これはclassのstateコンポーネントを使う時に発生するエラーです。  
 constructor(props)の処理を入れた時にreactのコンポーネントはComponentのClassを参照しているので、  
-super(props)を書かなければなりません。
-
+super(props)を書かなければなりません。  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ```javascript
 import React, { Component } from 'react';
 

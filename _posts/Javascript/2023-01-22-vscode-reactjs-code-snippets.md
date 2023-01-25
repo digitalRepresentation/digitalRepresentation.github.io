@@ -21,7 +21,20 @@ Reactの文法を作成する時、割と時間がかかるし、ミスをして
 ```javascript
 rcc
 ```
-
+  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 すると、ファイル名に合わせて、react class形でコンポーネント作成するのが可能です。
 ```javascript
 import React, { Component } from 'react';

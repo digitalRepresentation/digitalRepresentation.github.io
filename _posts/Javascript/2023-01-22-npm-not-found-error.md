@@ -20,7 +20,19 @@ npm ERR!   npm run
 
 npm ERR! A complete log of this run can be found in:
 ```
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 Reactのプロジェクトを実行すると、reactがないというエラーが発生しました。  
 こちらのエラーが発生する理由はターミナルの場所が正しくないからです。  
 ですので、プロジェクトがある場所に移動してnpm startコマンドを叩いたら解決できます。  

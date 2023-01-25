@@ -13,7 +13,19 @@ ESLintのエラーParsing error: Unexpected token, expected ","が発生しま�
 
 ## ESLintのParsing error: Unexpected token, expected ","エラー例
 Reactのコンポーネントですが、return {dDayNumber : dDayNumber + 1;}にエラーがなりました。  
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
 ```javascript
 import React, { Component } from 'react';
 
@@ -39,6 +51,20 @@ class DDayCounter extends Component {
 
 export default DDayCounter;
 ```
+  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 디스플레이 광고 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1939383573"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  
   
 ## ESLintのParsing error: Unexpected token, expected ","エラー解決方法
 javascript objectはコンマで分岐するのでセミコロンではなく、コンマに修正をしてください。  
