@@ -6,7 +6,7 @@ comments: true
 tags: [developer]
 ---
 # visual studio codeでF12機能を使うための超簡単記事
-<img src="assets/img/title/visual studio code.jpg" alt="visual studio code パッケージおすすめ"  width="500" >
+<img src="/assets/img/title/visual studio code.jpg" alt="visual studio code パッケージおすすめ"  width="500" >
 
 Visual Studio Codeで関数の場所を把握するのに時間がかかることがあります。  
 その際、Ctrl+F12を使用すると、該当するファイルの関数に移動することができます。  
@@ -31,6 +31,6 @@ Visual Studio Codeで関数の場所を把握するのに時間がかかるこ�
 パッケージで「extension pack」を検索すると、様々なプログラミング言語のパックが表示されます。  
 例えば、PHPの場合、「PHP Extension Pack」をインストールしてください。  
 そのあとからはCtrl+F12機能が使えるようになります。  
-<img src="assets/img/20241104/package.png" alt="visual studio code ctrl+f12機能"  width="500" >
+<img src="/assets/img/20241104/package.png" alt="visual studio code ctrl+f12機能"  width="500" >
 
 うまくできない場合はコメント欄でお願いいたします。  
