@@ -3,7 +3,7 @@ layout: post
 title: "確定申告のやり方と節税テクニック完全ガイド｜2024年版"
 slug: japan-final-tax-return
 comments: true
-tags: [developer]
+tags: [japan-life]
 ---
 # 確定申告のやり方と節税テクニック完全ガイド｜2024年版
 
