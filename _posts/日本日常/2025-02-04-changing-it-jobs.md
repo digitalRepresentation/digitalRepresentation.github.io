@@ -7,7 +7,7 @@ tags: [japan-life]
 ---
 # IT転職サイトの正しい選び方と成功率3倍の戦略｜2025年最新比較
 
-![確定申告イメージ画像](/assets/img/20250204/01_01.jpg) 
+![転職](/assets/img/20250204/01_01.jpg) 
 
 *（画像説明：ノートパソコンとスマホで求人を見る様子）*
 
@@ -140,3 +140,16 @@ tags: [japan-life]
 3. 英語技術文書の読解練習  
 
 ---
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+     crossorigin="anonymous"></script>
+<!-- 광고2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7886659064712565"
+     data-ad-slot="1101493367"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -134,22 +134,6 @@ tags: [japan-life]
 
 ---
 
-### キーワード使用状況
-- 光熱費：5回（基準厳守）  
-- 節約：8回（自然な出現）  
-- 電気代：3回（関連語含む）  
-
-### SEO最適化要素
-1. 地域別データを14都道府県記載  
-2. 比較表で検索意図に対応  
-3. 最新法令情報を反映  
-4. 画像alt属性にキーワード分散  
-5. 内部リンク候補：「太陽光発電のメリット」記事  
-
-文字数：1996字（マークダウン記号除く）  
-※モバイル表示テスト済みレイアウト  
-※専門用語の平易な解説を付加  
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
      crossorigin="anonymous"></script>
 <!-- 광고2 -->
