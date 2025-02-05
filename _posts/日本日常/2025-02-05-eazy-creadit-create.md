@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "クレジットカード作りやすい場所を徹底解説！初心者でもスムーズに作れる方法"
-slug: saving-on-electricity-bills
+slug: eazy-creadit-create
 comments: true
 tags: [japan-life]
 ---
