@@ -11,7 +11,7 @@ tags: [japan-life]
 
 ---
 
-script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
      crossorigin="anonymous"></script>
 <!-- 광고2 -->
 <ins class="adsbygoogle"
