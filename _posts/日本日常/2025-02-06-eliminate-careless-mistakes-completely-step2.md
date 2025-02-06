@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "凡ミスを徹底撲滅！仕事効率を300%上げる5つの科学的アプローチ"
-slug: eliminate-careless-mistakes-completely
+title: "凡ミスを徹底撲滅！仕事効率を300%上げる5つの科学的アプローチ STEP2"
+slug: eliminate-careless-mistakes-completely-step2
 comments: true
 tags: [japan-life]
 ---
 
-# 凡ミスを徹底撲滅！仕事効率を300%上げる5つの科学的アプローチ
+# 凡ミスを徹底撲滅！仕事効率を300%上げる5つの科学的アプローチ STEP2
 
-（凡ミスを徹底撲滅！仕事効率を300%上げる5つの科学的アプローチ）
+（凡ミスを徹底撲滅！仕事効率を300%上げる5つの科学的アプローチ STEP1）
 [プロが実践する凡ミス防止ツール10選と活用法](https://digitalrepresentation.github.io/2025/02/06/eliminate-careless-mistakes-completely/).
 
 ## プロが実践する凡ミス防止ツール10選と活用法
