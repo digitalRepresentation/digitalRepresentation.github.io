@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "会社の有給休暇を最大限に活用する方法と成功事例｜従業員満足度向上の秘訣"
-slug: productivity-improvement
+slug: credit-application-was-denied
 comments: true
 tags: [japan-life]
 ---
