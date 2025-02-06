@@ -56,7 +56,7 @@ tags: [japan-life]
 これらの組み合わせで、人的確認作業の負荷を50%以上軽減しながら、検出精度を92%まで高めることが可能です。重要なのは「人間と機械の協働」という発想転換にあります。
 
 （次のセクションに続く）
-[プロが実践する凡ミス防止ツール10選と活用法](http://www.google.co.kr).
+[プロが実践する凡ミス防止ツール10選と活用法](https://digitalrepresentation.github.io/2025/02/06/eliminate-careless-mistakes-completely-step2/).
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7886659064712565"
      crossorigin="anonymous"></script>
