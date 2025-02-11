@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "JLPT N1の勉強量と効果的な学習法  "
+title: "JLPT N1の勉強量と効果的な学習法"
 slug: jlpt-n1-study
 comments: true
 tags: [japan-life]
