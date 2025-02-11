@@ -10,8 +10,6 @@ tags: [japan-life]
 
 ![JLPT N1の勉強シーン](/assets/img/jlpt/jlpt-n1.webp)
 
-{% toc %}
-
 ---
 
 ## はじめに  
