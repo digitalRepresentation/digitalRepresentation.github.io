@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ストレス解消に効果的な方法"
-slug: 1
+slug: meditation
 comments: true
 tags: [japan-life]
 ---
