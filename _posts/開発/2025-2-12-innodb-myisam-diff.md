@@ -1,4 +1,12 @@
-## 🛢️ MySQLのInnoDBとMyISAMの違い
+---
+layout: post
+title: "MySQLのInnoDBとMyISAMの違い"
+slug: innodb-myisam-diff
+comments: true
+tags: [developer]
+---
+
+# 🛢️ MySQLのInnoDBとMyISAMの違い
 
 MySQLには複数のストレージエンジンがありますが、特に **InnoDB** と **MyISAM** はよく使われます。それぞれの特徴や用途を理解することで、適切なストレージエンジンを選択できます。
 
