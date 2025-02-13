@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "ブログのアドセンス金額が週末は低い理由：現状分析と改善策の考察
+title: "ブログのアドセンス金額が週末は低い理由：現状分析と改善策の考察"
 slug: weekend-adsense-low
 comments: true
-tags: [wordpress]
+tags: [japan-life]
 ---
 
 # ブログのアドセンス金額が週末は低い理由：現状分析と改善策の考察
